@@ -1,0 +1,1001 @@
+,Movie Name,Year of Release,Duration (Min),Genres,Director,Movie Rating
+0,The Shawshank Redemption,1994,142,['Drama'],Frank Darabont,9.3
+1,The Godfather,1972,175,"['Crime', ' Drama']",Francis Ford Coppola,9.2
+2,The Dark Knight,2008,152,"['Action', ' Crime', ' Drama']",Christopher Nolan,9.0
+3,Pulp Fiction,1994,154,"['Crime', ' Drama']",Quentin Tarantino,8.9
+4,Inception,2010,148,"['Action', ' Adventure', ' Sci-Fi']",Christopher Nolan,8.8
+5,The Lord of the Rings: The Fellowship of the Ring,2001,178,"['Action', ' Adventure', ' Drama']",Peter Jackson,8.9
+6,A Quiet Place,2018,90,"['Drama', ' Horror', ' Sci-Fi']",John Krasinski,7.5
+7,The Florida Project,2017,111,['Drama'],Sean Baker,7.6
+8,Blade Runner 2049,2017,164,"['Action', ' Drama', ' Mystery']",Denis Villeneuve,8.0
+9,The Silence of the Lambs,1991,118,"['Crime', ' Drama', ' Thriller']",Jonathan Demme,8.6
+10,Whiplash,2014,106,"['Drama', ' Music']",Damien Chazelle,8.5
+11,Schindler's List,1993,195,"['Biography', ' Drama', ' History']",Steven Spielberg,9.0
+12,Mad Max: Fury Road,2015,120,"['Action', ' Adventure', ' Sci-Fi']",George Miller,8.1
+13,No Country for Old Men,2007,122,"['Crime', ' Drama', ' Thriller']",Ethan Coen,8.2
+14,The Princess Bride,1987,98,"['Adventure', ' Comedy', ' Family']",Rob Reiner,8.0
+15,Fargo,1996,98,"['Crime', ' Thriller']",Joel Coen,8.1
+16,One Flew Over the Cuckoo's Nest,1975,133,['Drama'],Milos Forman,8.7
+17,Goodfellas,1990,145,"['Biography', ' Crime', ' Drama']",Martin Scorsese,8.7
+18,Django Unchained,2012,165,"['Drama', ' Western']",Quentin Tarantino,8.5
+19,The Sting,1973,129,"['Comedy', ' Crime', ' Drama']",George Roy Hill,8.3
+20,La La Land,2016,128,"['Comedy', ' Drama', ' Music']",Damien Chazelle,8.0
+21,Eternal Sunshine of the Spotless Mind,2004,108,"['Drama', ' Romance', ' Sci-Fi']",Michel Gondry,8.3
+22,Alien,1979,117,"['Horror', ' Sci-Fi']",Ridley Scott,8.5
+23,The Dark Knight Rises,2012,164,"['Action', ' Drama', ' Thriller']",Christopher Nolan,8.4
+24,Taxi Driver,1976,114,"['Crime', ' Drama']",Martin Scorsese,8.2
+25,The Departed,2006,151,"['Crime', ' Drama', ' Thriller']",Martin Scorsese,8.5
+26,Aliens,1986,137,"['Action', ' Adventure', ' Sci-Fi']",James Cameron,8.4
+27,Moana,I 2016,107,"['Animation', ' Adventure', ' Comedy']",Ron Clements,7.6
+28,Dunkirk,2017,106,"['Action', ' Drama', ' History']",Christopher Nolan,7.8
+29,The Lord of the Rings: The Return of the King,2003,201,"['Action', ' Adventure', ' Drama']",Peter Jackson,9.0
+30,Star Wars,1977,121,"['Action', ' Adventure', ' Fantasy']",George Lucas,8.6
+31,Avengers: Endgame,2019,181,"['Action', ' Adventure', ' Drama']",Anthony Russo,8.4
+32,Back to the Future,1985,116,"['Adventure', ' Comedy', ' Sci-Fi']",Robert Zemeckis,8.5
+33,Memento,2000,113,"['Mystery', ' Thriller']",Christopher Nolan,8.4
+34,Raiders of the Lost Ark,1981,115,"['Action', ' Adventure']",Steven Spielberg,8.4
+35,Sen to Chihiro no kamikakushi,2001,125,"['Animation', ' Adventure', ' Family']",Hayao Miyazaki,8.6
+36,2001: A Space Odyssey,1968,149,"['Adventure', ' Sci-Fi']",Stanley Kubrick,8.3
+37,Get Out,I 2017,104,"['Horror', ' Mystery', ' Thriller']",Jordan Peele,7.8
+38,Guardians of the Galaxy,2014,121,"['Action', ' Adventure', ' Comedy']",James Gunn,8.0
+39,12 Angry Men,1957,96,"['Crime', ' Drama']",Sidney Lumet,9.0
+40,Terminator 2: Judgment Day,1991,137,"['Action', ' Sci-Fi']",James Cameron,8.6
+41,The Godfather Part II,1974,202,"['Crime', ' Drama']",Francis Ford Coppola,9.0
+42,Apocalypse Now,1979,147,"['Drama', ' Mystery', ' War']",Francis Ford Coppola,8.4
+43,Sicario,2015,121,"['Action', ' Crime', ' Drama']",Denis Villeneuve,7.7
+44,Baby Driver,2017,113,"['Action', ' Crime', ' Drama']",Edgar Wright,7.5
+45,Cidade de Deus,2002,130,"['Crime', ' Drama']",Fernando Meirelles,8.6
+46,Ah-ga-ssi,2016,145,"['Drama', ' Romance', ' Thriller']",Park Chan-wook,8.1
+47,Looper,2012,119,"['Action', ' Drama', ' Sci-Fi']",Rian Johnson,7.4
+48,Mission: Impossible - Fallout,2018,147,"['Action', ' Adventure', ' Thriller']",Christopher McQuarrie,7.7
+49,Call Me by Your Name,2017,132,"['Drama', ' Romance']",Luca Guadagnino,7.8
+50,The Usual Suspects,1995,106,"['Crime', ' Drama', ' Mystery']",Bryan Singer,8.5
+51,Trainspotting,1996,93,['Drama'],Danny Boyle,8.1
+52,Notorious,1946,102,"['Drama', ' Film-Noir', ' Romance']",Alfred Hitchcock,7.9
+53,Blade Runner,1982,117,"['Action', ' Drama', ' Sci-Fi']",Ridley Scott,8.1
+54,Saving Private Ryan,1998,169,"['Drama', ' War']",Steven Spielberg,8.6
+55,A Clockwork Orange,1971,136,"['Crime', ' Sci-Fi']",Stanley Kubrick,8.3
+56,The Martian,2015,144,"['Adventure', ' Drama', ' Sci-Fi']",Ridley Scott,8.0
+57,There Will Be Blood,2007,158,['Drama'],Paul Thomas Anderson,8.2
+58,Jagten,2012,115,['Drama'],Thomas Vinterberg,8.3
+59,Her,2013,126,"['Drama', ' Romance', ' Sci-Fi']",Spike Jonze,8.0
+60,The Lord of the Rings: The Two Towers,2002,179,"['Action', ' Adventure', ' Drama']",Peter Jackson,8.8
+61,Harry Potter and the Deathly Hallows - Part 2,2011,130,"['Adventure', ' Family', ' Fantasy']",David Yates,8.1
+62,"Three Billboards Outside Ebbing, Missouri",2017,115,"['Comedy', ' Crime', ' Drama']",Martin McDonagh,8.1
+63,The Grand Budapest Hotel,2014,99,"['Adventure', ' Comedy', ' Crime']",Wes Anderson,8.1
+64,Ratatouille,2007,111,"['Animation', ' Adventure', ' Comedy']",Brad Bird,8.1
+65,The Lion King,1994,88,"['Animation', ' Adventure', ' Drama']",Roger Allers,8.5
+66,The Social Network,2010,120,"['Biography', ' Drama']",David Fincher,7.8
+67,Donnie Darko,2001,113,"['Drama', ' Mystery', ' Sci-Fi']",Richard Kelly,8.0
+68,Spider-Man: Into the Spider-Verse,2018,117,"['Animation', ' Action', ' Adventure']",Bob Persichetti,8.4
+69,The Terminator,1984,107,"['Action', ' Sci-Fi']",James Cameron,8.1
+70,Star Wars: Episode V - The Empire Strikes Back,1980,124,"['Action', ' Adventure', ' Fantasy']",Irvin Kershner,8.7
+71,Arrival,II 2016,116,"['Drama', ' Mystery', ' Sci-Fi']",Denis Villeneuve,7.9
+72,L.A. Confidential,1997,138,"['Crime', ' Drama', ' Mystery']",Curtis Hanson,8.2
+73,Idi i smotri,1985,142,"['Drama', ' Thriller', ' War']",Elem Klimov,8.4
+74,Moneyball,2011,133,"['Biography', ' Drama', ' Sport']",Bennett Miller,7.6
+75,"Il buono, il brutto, il cattivo",1966,161,"['Adventure', ' Western']",Sergio Leone,8.8
+76,Lady Bird,2017,94,"['Comedy', ' Drama']",Greta Gerwig,7.4
+77,La vie d'Adèle,2013,180,"['Drama', ' Romance']",Abdellatif Kechiche,7.7
+78,Hell or High Water,II 2016,102,"['Crime', ' Drama', ' Thriller']",David Mackenzie,7.6
+79,Reservoir Dogs,1992,99,"['Crime', ' Thriller']",Quentin Tarantino,8.3
+80,The Pianist,2002,150,"['Biography', ' Drama', ' Music']",Roman Polanski,8.5
+81,Almost Famous,2000,122,"['Adventure', ' Comedy', ' Drama']",Cameron Crowe,7.9
+82,Zootopia,2016,108,"['Animation', ' Adventure', ' Comedy']",Byron Howard,8.0
+83,Incendies,2010,131,"['Drama', ' Mystery', ' War']",Denis Villeneuve,8.3
+84,Casablanca,1942,102,"['Drama', ' Romance', ' War']",Michael Curtiz,8.5
+85,Jaws,1975,124,"['Adventure', ' Mystery', ' Thriller']",Steven Spielberg,8.1
+86,Inside Out,I 2015,95,"['Animation', ' Adventure', ' Comedy']",Pete Docter,8.1
+87,12 Years a Slave,2013,134,"['Biography', ' Drama', ' History']",Steve McQueen,8.1
+88,Toy Story,1995,81,"['Animation', ' Adventure', ' Comedy']",John Lasseter,8.3
+89,WALL·E,2008,98,"['Animation', ' Adventure', ' Family']",Andrew Stanton,8.4
+90,Manchester by the Sea,2016,137,['Drama'],Kenneth Lonergan,7.8
+91,Once Upon a Time in America,1984,229,"['Crime', ' Drama']",Sergio Leone,8.3
+92,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,"['Comedy', ' War']",Stanley Kubrick,8.4
+93,Amadeus,1984,160,"['Biography', ' Drama', ' Music']",Milos Forman,8.4
+94,Chinatown,1974,130,"['Drama', ' Mystery', ' Thriller']",Roman Polanski,8.1
+95,The Wizard of Oz,1939,102,"['Adventure', ' Family', ' Fantasy']",Victor Fleming,8.1
+96,Moonlight,I 2016,111,['Drama'],Barry Jenkins,7.4
+97,Finding Nemo,2003,100,"['Animation', ' Adventure', ' Comedy']",Andrew Stanton,8.2
+98,A Star Is Born,2018,136,"['Drama', ' Music', ' Romance']",Bradley Cooper,7.6
+99,Kimi no na wa.,2016,106,"['Animation', ' Drama', ' Fantasy']",Makoto Shinkai,8.4
+100,Silver Linings Playbook,2012,122,"['Comedy', ' Drama', ' Romance']",David O. Russell,7.7
+101,Annie Hall,1977,93,"['Comedy', ' Romance']",Woody Allen,8.0
+102,Logan,2017,137,"['Action', ' Drama', ' Sci-Fi']",James Mangold,8.1
+103,Room,I 2015,118,"['Drama', ' Thriller']",Lenny Abrahamson,8.1
+104,Fa yeung nin wah,2000,98,"['Drama', ' Romance']",Kar-Wai Wong,8.1
+105,Black Panther,2018,134,"['Action', ' Adventure', ' Sci-Fi']",Ryan Coogler,7.3
+106,Coco,I 2017,105,"['Animation', ' Adventure', ' Drama']",Lee Unkrich,8.4
+107,Skyfall,2012,143,"['Action', ' Adventure', ' Thriller']",Sam Mendes,7.8
+108,Nightcrawler,2014,117,"['Crime', ' Drama', ' Thriller']",Dan Gilroy,7.8
+109,Blue Velvet,1986,120,"['Crime', ' Drama', ' Mystery']",David Lynch,7.7
+110,Psycho,1960,109,"['Horror', ' Mystery', ' Thriller']",Alfred Hitchcock,8.5
+111,Star Wars: Episode VII - The Force Awakens,2015,138,"['Action', ' Adventure', ' Sci-Fi']",J.J. Abrams,7.8
+112,Before Sunrise,1995,101,"['Drama', ' Romance']",Richard Linklater,8.1
+113,Once Upon a Time in the West,1968,166,['Western'],Sergio Leone,8.5
+114,Pan's Labyrinth,2006,118,"['Drama', ' Fantasy', ' War']",Guillermo del Toro,8.2
+115,Der Untergang,2004,156,"['Biography', ' Drama', ' History']",Oliver Hirschbiegel,8.2
+116,E.T. the Extra-Terrestrial,1982,115,"['Adventure', ' Family', ' Sci-Fi']",Steven Spielberg,7.9
+117,Unforgiven,1992,130,"['Drama', ' Western']",Clint Eastwood,8.2
+118,Brooklyn,2015,117,"['Drama', ' Romance']",John Crowley,7.5
+119,Gone with the Wind,1939,238,"['Drama', ' Romance', ' War']",Victor Fleming,8.2
+120,American Hustle,2013,138,"['Crime', ' Drama']",David O. Russell,7.2
+121,Lawrence of Arabia,1962,218,"['Adventure', ' Biography', ' Drama']",David Lean,8.3
+122,Superman,1978,143,"['Action', ' Adventure', ' Sci-Fi']",Richard Donner,7.4
+123,Hotaru no haka,1988,89,"['Animation', ' Drama', ' War']",Isao Takahata,8.5
+124,Up,2009,96,"['Animation', ' Adventure', ' Comedy']",Pete Docter,8.3
+125,Birdman or (The Unexpected Virtue of Ignorance),2014,119,"['Comedy', ' Drama']",Alejandro G. Iñárritu,7.7
+126,Spotlight,I 2015,129,"['Biography', ' Crime', ' Drama']",Tom McCarthy,8.1
+127,Gravity,2013,91,"['Drama', ' Sci-Fi', ' Thriller']",Alfonso Cuarón,7.7
+128,The Deer Hunter,1978,183,"['Drama', ' War']",Michael Cimino,8.1
+129,Creed,II 2015,133,"['Action', ' Drama', ' Sport']",Ryan Coogler,7.6
+130,The Best Years of Our Lives,1946,170,"['Drama', ' Romance', ' War']",William Wyler,8.1
+131,Citizen Kane,1941,119,"['Drama', ' Mystery']",Orson Welles,8.3
+132,The Lives of Others,2006,137,"['Drama', ' Mystery', ' Thriller']",Florian Henckel von Donnersmarck,8.4
+133,Metropolis,1927,153,"['Drama', ' Sci-Fi']",Fritz Lang,8.3
+134,Toy Story 4,2019,100,"['Animation', ' Adventure', ' Comedy']",Josh Cooley,7.7
+135,Juno,2007,96,"['Comedy', ' Drama']",Jason Reitman,7.5
+136,War for the Planet of the Apes,2017,140,"['Action', ' Adventure', ' Drama']",Matt Reeves,7.4
+137,Rear Window,1954,112,"['Mystery', ' Thriller']",Alfred Hitchcock,8.5
+138,This Is Spinal Tap,1984,82,"['Comedy', ' Music']",Rob Reiner,7.9
+139,Don't Look Now,1973,110,"['Drama', ' Horror', ' Mystery']",Nicolas Roeg,7.1
+140,Argo,2012,120,"['Biography', ' Drama', ' Thriller']",Ben Affleck,7.7
+141,Aladdin,1992,90,"['Animation', ' Adventure', ' Comedy']",Ron Clements,8.0
+142,It's a Wonderful Life,1946,130,"['Drama', ' Family', ' Fantasy']",Frank Capra,8.6
+143,Zero Dark Thirty,2012,157,"['Drama', ' History', ' Thriller']",Kathryn Bigelow,7.4
+144,Roman Holiday,1953,118,"['Comedy', ' Romance']",William Wyler,8.0
+145,Gokseong,2016,156,"['Drama', ' Horror', ' Mystery']",Na Hong-jin,7.4
+146,Tengoku to jigoku,1963,143,"['Crime', ' Drama', ' Mystery']",Akira Kurosawa,8.4
+147,Shichinin no samurai,1954,207,"['Action', ' Drama']",Akira Kurosawa,8.6
+148,BlacKkKlansman,2018,135,"['Biography', ' Comedy', ' Crime']",Spike Lee,7.5
+149,Slumdog Millionaire,2008,120,"['Crime', ' Drama', ' Romance']",Danny Boyle,8.0
+150,Tonari no Totoro,1988,86,"['Animation', ' Comedy', ' Family']",Hayao Miyazaki,8.1
+151,Toy Story 3,2010,103,"['Animation', ' Adventure', ' Comedy']",Lee Unkrich,8.3
+152,True Grit,2010,110,"['Drama', ' Western']",Ethan Coen,7.6
+153,Nuovo Cinema Paradiso,1988,174,"['Drama', ' Romance']",Giuseppe Tornatore,8.5
+154,Beauty and the Beast,1991,84,"['Animation', ' Family', ' Fantasy']",Gary Trousdale,8.0
+155,Dallas Buyers Club,2013,117,"['Biography', ' Drama']",Jean-Marc Vallée,7.9
+156,Raging Bull,1980,129,"['Biography', ' Drama', ' Sport']",Martin Scorsese,8.1
+157,Rosemary's Baby,1968,137,"['Drama', ' Horror']",Roman Polanski,8.0
+158,Close Encounters of the Third Kind,1977,138,"['Drama', ' Sci-Fi']",Steven Spielberg,7.6
+159,Incredibles 2,2018,118,"['Animation', ' Action', ' Adventure']",Brad Bird,7.5
+160,Shazam!,2019,132,"['Action', ' Adventure', ' Comedy']",David F. Sandberg,7.0
+161,Stalker,1979,162,"['Drama', ' Sci-Fi']",Andrei Tarkovsky,8.1
+162,American Graffiti,1973,110,"['Comedy', ' Drama']",George Lucas,7.4
+163,Monty Python and the Holy Grail,1975,91,"['Adventure', ' Comedy', ' Fantasy']",Terry Gilliam,8.2
+164,The Conversation,1974,113,"['Drama', ' Mystery', ' Thriller']",Francis Ford Coppola,7.7
+165,Barry Lyndon,1975,185,"['Adventure', ' Drama', ' War']",Stanley Kubrick,8.1
+166,Dawn of the Planet of the Apes,2014,130,"['Action', ' Adventure', ' Drama']",Matt Reeves,7.6
+167,Charade,1963,113,"['Comedy', ' Mystery', ' Romance']",Stanley Donen,7.8
+168,Young Frankenstein,1974,106,['Comedy'],Mel Brooks,8.0
+169,To Kill a Mockingbird,1962,129,"['Crime', ' Drama']",Robert Mulligan,8.3
+170,Vertigo,1958,128,"['Mystery', ' Romance', ' Thriller']",Alfred Hitchcock,8.3
+171,The Hurt Locker,2008,131,"['Drama', ' Thriller', ' War']",Kathryn Bigelow,7.5
+172,"Paris, Texas",1984,145,['Drama'],Wim Wenders,8.1
+173,Capharnaüm,2018,126,['Drama'],Nadine Labaki,8.4
+174,Seppuku,1962,133,"['Action', ' Drama', ' Mystery']",Masaki Kobayashi,8.6
+175,The French Connection,1971,104,"['Action', ' Crime', ' Drama']",William Friedkin,7.7
+176,Singin' in the Rain,1952,103,"['Comedy', ' Musical', ' Romance']",Stanley Donen,8.3
+177,Sunset Blvd.,1950,110,"['Drama', ' Film-Noir']",Billy Wilder,8.4
+178,The King's Speech,2010,118,"['Biography', ' Drama', ' History']",Tom Hooper,8.0
+179,The Great Escape,1963,172,"['Adventure', ' Drama', ' History']",John Sturges,8.2
+180,La haine,1995,98,"['Crime', ' Drama']",Mathieu Kassovitz,8.1
+181,The Bridge on the River Kwai,1957,161,"['Adventure', ' Drama', ' War']",David Lean,8.1
+182,Wo hu cang long,2000,120,"['Action', ' Adventure', ' Drama']",Ang Lee,7.9
+183,Captain Phillips,2013,134,"['Action', ' Biography', ' Crime']",Paul Greengrass,7.8
+184,Do the Right Thing,1989,120,"['Comedy', ' Drama']",Spike Lee,8.0
+185,Moonrise Kingdom,2012,94,"['Adventure', ' Comedy', ' Drama']",Wes Anderson,7.8
+186,Toy Story 2,1999,92,"['Animation', ' Adventure', ' Comedy']",John Lasseter,7.9
+187,The Little Mermaid,1989,83,"['Animation', ' Adventure', ' Family']",Ron Clements,7.6
+188,127 Hours,2010,94,"['Biography', ' Drama']",Danny Boyle,7.5
+189,Das Boot,1981,149,"['Drama', ' War']",Wolfgang Petersen,8.4
+190,Relatos salvajes,2014,122,"['Comedy', ' Drama', ' Thriller']",Damián Szifron,8.1
+191,Beoning,2018,148,"['Drama', ' Mystery', ' Thriller']",Lee Chang-dong,7.5
+192,The Man from Earth,2007,87,"['Drama', ' Fantasy', ' Mystery']",Richard Schenkman,7.8
+193,Brazil,1985,132,"['Drama', ' Sci-Fi', ' Thriller']",Terry Gilliam,7.9
+194,Some Like It Hot,1959,121,"['Comedy', ' Music', ' Romance']",Billy Wilder,8.2
+195,The Death of Stalin,2017,107,"['Comedy', ' Drama', ' History']",Armando Iannucci,7.3
+196,The Big Sick,2017,120,"['Comedy', ' Drama', ' Romance']",Michael Showalter,7.5
+197,North by Northwest,1959,136,"['Action', ' Adventure', ' Mystery']",Alfred Hitchcock,8.3
+198,Hugo,2011,126,"['Adventure', ' Drama', ' Family']",Martin Scorsese,7.5
+199,Network,1976,121,['Drama'],Sidney Lumet,8.1
+200,Fort Apache,1948,128,"['Drama', ' Western']",John Ford,7.4
+201,Paddington 2,2017,103,"['Adventure', ' Comedy', ' Family']",Paul King,7.8
+202,Booksmart,2019,102,['Comedy'],Olivia Wilde,7.1
+203,Rio Bravo,1959,141,"['Drama', ' Western']",Howard Hawks,8.0
+204,Boyhood,I 2014,165,['Drama'],Richard Linklater,7.9
+205,Carol,2015,118,"['Drama', ' Romance']",Todd Haynes,7.2
+206,Ran,1985,160,"['Action', ' Drama', ' War']",Akira Kurosawa,8.2
+207,Before Sunset,2004,80,"['Drama', ' Romance']",Richard Linklater,8.1
+208,The Bourne Ultimatum,2007,115,"['Action', ' Mystery', ' Thriller']",Paul Greengrass,8.0
+209,Goldfinger,1964,110,"['Action', ' Adventure', ' Thriller']",Guy Hamilton,7.7
+210,Låt den rätte komma in,2008,114,"['Drama', ' Fantasy', ' Horror']",Tomas Alfredson,7.8
+211,Dog Day Afternoon,1975,125,"['Biography', ' Crime', ' Drama']",Sidney Lumet,8.0
+212,M - Eine Stadt sucht einen Mörder,1931,117,"['Crime', ' Mystery', ' Thriller']",Fritz Lang,8.3
+213,The Apartment,1960,125,"['Comedy', ' Drama', ' Romance']",Billy Wilder,8.3
+214,Dead of Night,1945,103,"['Drama', ' Horror']",Alberto Cavalcanti,7.5
+215,Suspiria,1977,99,['Horror'],Dario Argento,7.3
+216,Night of the Living Dead,1968,96,"['Horror', ' Thriller']",George A. Romero,7.8
+217,Blood Simple,1984,99,"['Crime', ' Drama', ' Thriller']",Joel Coen,7.5
+218,The Grapes of Wrath,1940,129,['Drama'],John Ford,8.1
+219,Hunt for the Wilderpeople,2016,101,"['Adventure', ' Comedy', ' Drama']",Taika Waititi,7.8
+220,Mean Streets,1973,112,"['Crime', ' Drama', ' Thriller']",Martin Scorsese,7.2
+221,Nosferatu,1922,94,"['Fantasy', ' Horror']",F.W. Murnau,7.9
+222,Der Himmel über Berlin,1987,128,"['Drama', ' Fantasy', ' Romance']",Wim Wenders,7.9
+223,Snow White and the Seven Dwarfs,1937,83,"['Animation', ' Adventure', ' Family']",William Cottrell,7.6
+224,The Maltese Falcon,1941,100,"['Crime', ' Film-Noir', ' Mystery']",John Huston,8.0
+225,Sling Blade,1996,135,['Drama'],Billy Bob Thornton,8.0
+226,The Wrestler,2008,109,"['Drama', ' Sport']",Darren Aronofsky,7.9
+227,The Remains of the Day,1993,134,"['Drama', ' Romance']",James Ivory,7.8
+228,Jodaeiye Nader az Simin,2011,123,['Drama'],Asghar Farhadi,8.3
+229,Shane,1953,118,"['Drama', ' Western']",George Stevens,7.6
+230,On the Waterfront,1954,108,"['Crime', ' Drama', ' Thriller']",Elia Kazan,8.1
+231,The Last Picture Show,1971,118,"['Drama', ' Romance']",Peter Bogdanovich,8.0
+232,Det sjunde inseglet,1957,96,"['Drama', ' Fantasy']",Ingmar Bergman,8.1
+233,Isle of Dogs,2018,101,"['Animation', ' Adventure', ' Comedy']",Wes Anderson,7.8
+234,Rebel Without a Cause,1955,111,['Drama'],Nicholas Ray,7.6
+235,Inside Llewyn Davis,2013,104,"['Drama', ' Music']",Ethan Coen,7.4
+236,Roma,2018,135,['Drama'],Alfonso Cuarón,7.7
+237,Before Midnight,2013,109,"['Drama', ' Romance']",Richard Linklater,7.9
+238,The Searchers,1956,119,"['Adventure', ' Drama', ' Western']",John Ford,7.8
+239,Kaze no Tani no Nausicaä,1984,117,"['Animation', ' Adventure', ' Sci-Fi']",Hayao Miyazaki,8.0
+240,The Farewell,I 2019,100,"['Comedy', ' Drama']",Lulu Wang,7.5
+241,The Right Stuff,1983,193,"['Adventure', ' Biography', ' Drama']",Philip Kaufman,7.8
+242,Solaris,1972,167,"['Drama', ' Mystery', ' Sci-Fi']",Andrei Tarkovsky,8.0
+243,Days of Heaven,1978,94,"['Drama', ' Romance']",Terrence Malick,7.7
+244,Cool Hand Luke,1967,127,"['Crime', ' Drama']",Stuart Rosenberg,8.1
+245,Witness for the Prosecution,1957,116,"['Crime', ' Drama', ' Mystery']",Billy Wilder,8.4
+246,Nebraska,2013,115,['Drama'],Alexander Payne,7.7
+247,A Raisin in the Sun,1961,128,['Drama'],Daniel Petrie,8.0
+248,Paths of Glory,1957,88,"['Drama', ' War']",Stanley Kubrick,8.4
+249,Ikiru,1952,143,['Drama'],Akira Kurosawa,8.3
+250,A Room with a View,1985,117,"['Drama', ' Romance']",James Ivory,7.2
+251,Toni Erdmann,2016,162,"['Comedy', ' Drama']",Maren Ade,7.3
+252,A Streetcar Named Desire,1951,122,['Drama'],Elia Kazan,7.9
+253,Rebecca,1940,130,"['Drama', ' Mystery', ' Romance']",Alfred Hitchcock,8.1
+254,The Long Goodbye,1973,112,"['Comedy', ' Crime', ' Drama']",Robert Altman,7.5
+255,Weekend,II 2011,97,"['Drama', ' Romance']",Andrew Haigh,7.6
+256,Manbiki kazoku,2018,121,"['Crime', ' Drama', ' Thriller']",Kore-eda Hirokazu,7.9
+257,Say Anything...,1989,100,"['Comedy', ' Drama', ' Romance']",Cameron Crowe,7.3
+258,The Artist,I 2011,100,"['Comedy', ' Drama', ' Romance']",Michel Hazanavicius,7.9
+259,Modern Times,1936,87,"['Comedy', ' Drama', ' Romance']",Charles Chaplin,8.5
+260,Selma,2014,128,"['Biography', ' Drama', ' History']",Ava DuVernay,7.5
+261,Mudbound,2017,134,"['Drama', ' War']",Dee Rees,7.4
+262,All About Eve,1950,138,['Drama'],Joseph L. Mankiewicz,8.2
+263,Leave No Trace,2018,109,"['Adventure', ' Drama']",Debra Granik,7.1
+264,The Wild Bunch,1969,145,"['Action', ' Adventure', ' Drama']",Sam Peckinpah,7.9
+265,The Man Who Shot Liberty Valance,1962,123,"['Drama', ' Western']",John Ford,8.1
+266,King Kong,1933,100,"['Adventure', ' Horror', ' Sci-Fi']",Merian C. Cooper,7.9
+267,All the President's Men,1976,138,"['Drama', ' History', ' Thriller']",Alan J. Pakula,7.9
+268,8½,1963,138,['Drama'],Federico Fellini,8.0
+269,The Player,1992,124,"['Comedy', ' Crime', ' Drama']",Robert Altman,7.5
+270,Gangs of Wasseypur,2012,321,"['Action', ' Comedy', ' Crime']",Anurag Kashyap,8.2
+271,Amores perros,2000,154,"['Drama', ' Thriller']",Alejandro G. Iñárritu,8.1
+272,Leviafan,2014,140,"['Crime', ' Drama']",Andrey Zvyagintsev,7.6
+273,Persona,1966,85,"['Drama', ' Thriller']",Ingmar Bergman,8.1
+274,The 39 Steps,1935,86,"['Crime', ' Mystery', ' Thriller']",Alfred Hitchcock,7.6
+275,Il conformista,1970,113,['Drama'],Bernardo Bertolucci,7.9
+276,The Third Man,1949,104,"['Film-Noir', ' Mystery', ' Thriller']",Carol Reed,8.1
+277,Withnail & I,1987,107,"['Comedy', ' Drama']",Bruce Robinson,7.5
+278,Forbidden Planet,1956,98,"['Adventure', ' Sci-Fi']",Fred M. Wilcox,7.5
+279,Animal Kingdom,2010,113,"['Crime', ' Drama', ' Thriller']",David Michôd,7.2
+280,It Happened One Night,1934,105,"['Comedy', ' Romance']",Frank Capra,8.1
+281,Being There,1979,130,"['Comedy', ' Drama']",Hal Ashby,7.9
+282,Cinderella,1950,74,"['Animation', ' Family', ' Fantasy']",Clyde Geronimi,7.3
+283,My Left Foot: The Story of Christy Brown,1989,103,"['Biography', ' Drama']",Jim Sheridan,7.8
+284,La dolce vita,1960,174,"['Comedy', ' Drama']",Federico Fellini,8.0
+285,Badlands,1973,94,"['Action', ' Crime', ' Drama']",Terrence Malick,7.7
+286,High Noon,1952,85,"['Drama', ' Thriller', ' Western']",Fred Zinnemann,8.0
+287,Once,I 2007,86,"['Drama', ' Music', ' Romance']",John Carney,7.8
+288,Sing Street,2016,106,"['Comedy', ' Drama', ' Music']",John Carney,7.9
+289,Belle de jour,1967,100,"['Drama', ' Romance']",Luis Buñuel,7.6
+290,The Straight Story,1999,112,"['Biography', ' Drama']",David Lynch,8.0
+291,Double Indemnity,1944,107,"['Crime', ' Drama', ' Film-Noir']",Billy Wilder,8.3
+292,"Aguirre, der Zorn Gottes",1972,95,"['Action', ' Adventure', ' Biography']",Werner Herzog,7.8
+293,Adam's Rib,1949,101,"['Comedy', ' Romance']",George Cukor,7.4
+294,Lucky,I 2017,88,"['Comedy', ' Drama', ' Western']",John Carroll Lynch,7.3
+295,Pinocchio,1940,88,"['Animation', ' Adventure', ' Comedy']",Norman Ferguson,7.5
+296,Paterson,2016,118,"['Comedy', ' Drama', ' Romance']",Jim Jarmusch,7.3
+297,Eighth Grade,2018,93,"['Comedy', ' Drama']",Bo Burnham,7.4
+298,Bride of Frankenstein,1935,75,"['Drama', ' Horror', ' Sci-Fi']",James Whale,7.8
+299,The Night of the Hunter,1955,92,"['Crime', ' Drama', ' Film-Noir']",Charles Laughton,8.0
+300,Mommy,I 2014,139,['Drama'],Xavier Dolan,8.0
+301,Rashômon,1950,88,"['Crime', ' Drama', ' Mystery']",Akira Kurosawa,8.2
+302,The Killing,1956,84,"['Crime', ' Drama', ' Film-Noir']",Stanley Kubrick,7.9
+303,Spoorloos,1988,107,"['Mystery', ' Thriller']",George Sluizer,7.7
+304,The Lady Vanishes,1938,96,"['Mystery', ' Thriller']",Alfred Hitchcock,7.7
+305,The African Queen,1951,105,"['Adventure', ' Drama', ' Romance']",John Huston,7.7
+306,The Killing Fields,1984,141,"['Biography', ' Drama', ' History']",Roland Joffé,7.8
+307,McCabe & Mrs. Miller,1971,120,"['Drama', ' Western']",Robert Altman,7.6
+308,Festen,1998,105,['Drama'],Thomas Vinterberg,8.0
+309,Patton,1970,172,"['Biography', ' Drama', ' War']",Franklin J. Schaffner,7.9
+310,Frankenstein,1931,70,"['Drama', ' Horror', ' Sci-Fi']",James Whale,7.8
+311,Stop Making Sense,1984,88,"['Documentary', ' Music']",Jonathan Demme,8.7
+312,The Great Dictator,1940,125,"['Comedy', ' Drama', ' War']",Charles Chaplin,8.4
+313,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,87,"['Animation', ' Action', ' Drama']",Hideaki Anno,8.1
+314,Dare mo shiranai,2004,141,['Drama'],Kore-eda Hirokazu,8.0
+315,Les quatre cents coups,1959,99,"['Crime', ' Drama']",François Truffaut,8.1
+316,Ladri di biciclette,1948,89,['Drama'],Vittorio De Sica,8.3
+317,Dekalog,1989–1990,572,['Drama'],Artur Barcis,8.9
+318,Local Hero,1983,111,"['Comedy', ' Drama']",Bill Forsyth,7.3
+319,Trois couleurs: Bleu,1993,94,"['Drama', ' Music', ' Mystery']",Krzysztof Kieslowski,7.9
+320,Strangers on a Train,1951,101,"['Crime', ' Drama', ' Film-Noir']",Alfred Hitchcock,7.9
+321,All Quiet on the Western Front,1930,152,"['Drama', ' War']",Lewis Milestone,8.1
+322,Freaks,1932,64,"['Drama', ' Horror']",Tod Browning,7.8
+323,Manhattan,1979,96,"['Comedy', ' Drama', ' Romance']",Woody Allen,7.8
+324,Vuelven,2017,83,"['Fantasy', ' Horror', ' Mystery']",Issa López,6.9
+325,Paper Moon,1973,102,"['Comedy', ' Crime', ' Drama']",Peter Bogdanovich,8.1
+326,God's Own Country,2017,104,"['Drama', ' Romance']",Francis Lee,7.6
+327,Anatomy of a Murder,1959,161,"['Drama', ' Mystery']",Otto Preminger,8.0
+328,Mary and Max.,2009,92,"['Animation', ' Comedy', ' Drama']",Adam Elliot,8.1
+329,Columbus,I 2017,104,['Drama'],Kogonada,7.2
+330,Short Term 12,2013,96,['Drama'],Destin Daniel Cretton,7.9
+331,The Manchurian Candidate,1962,126,"['Drama', ' Thriller']",John Frankenheimer,7.9
+332,Das Cabinet des Dr. Caligari,1920,76,"['Horror', ' Mystery', ' Thriller']",Robert Wiene,8.0
+333,Picnic at Hanging Rock,1975,115,"['Drama', ' Mystery']",Peter Weir,7.4
+334,You Can Count on Me,2000,111,['Drama'],Kenneth Lonergan,7.5
+335,Peeping Tom,1960,101,"['Drama', ' Horror', ' Thriller']",Michael Powell,7.6
+336,If Beale Street Could Talk,2018,119,"['Drama', ' Romance']",Barry Jenkins,7.1
+337,The Ghost and Mrs. Muir,1947,104,"['Comedy', ' Drama', ' Fantasy']",Joseph L. Mankiewicz,7.8
+338,City Lights,1931,87,"['Comedy', ' Drama', ' Romance']",Charles Chaplin,8.5
+339,Yôjinbô,1961,110,"['Action', ' Drama', ' Thriller']",Akira Kurosawa,8.2
+340,Zerkalo,1975,107,"['Biography', ' Drama']",Andrei Tarkovsky,8.0
+341,Who's Afraid of Virginia Woolf?,1966,131,['Drama'],Mike Nichols,8.0
+342,The Long Good Friday,1980,114,"['Crime', ' Drama', ' Mystery']",John Mackenzie,7.6
+343,La Belle Noiseuse,1991,238,['Drama'],Jacques Rivette,7.5
+344,Andhadhun,2018,139,"['Crime', ' Mystery', ' Thriller']",Sriram Raghavan,8.2
+345,The Philadelphia Story,1940,112,"['Comedy', ' Romance']",George Cukor,7.9
+346,The Hustler,1961,134,"['Drama', ' Sport']",Robert Rossen,8.0
+347,To Have and Have Not,1944,100,"['Adventure', ' Comedy', ' Film-Noir']",Howard Hawks,7.8
+348,Saul fia,2015,107,"['Drama', ' War']",László Nemes,7.4
+349,Milk,I 2008,128,"['Biography', ' Drama', ' History']",Gus Van Sant,7.5
+350,Invasion of the Body Snatchers,1956,80,"['Drama', ' Horror', ' Sci-Fi']",Don Siegel,7.7
+351,The Red Shoes,1948,135,"['Drama', ' Music', ' Romance']",Michael Powell,8.1
+352,The Lion in Winter,1968,134,"['Biography', ' Drama', ' History']",Anthony Harvey,7.9
+353,Hannah and Her Sisters,1986,107,"['Comedy', ' Drama']",Woody Allen,7.8
+354,Stagecoach,1939,96,"['Adventure', ' Drama', ' Western']",John Ford,7.8
+355,45 Years,2015,95,"['Drama', ' Romance']",Andrew Haigh,7.1
+356,Beasts of No Nation,2015,137,"['Drama', ' War']",Cary Joji Fukunaga,7.7
+357,Repulsion,1965,105,"['Drama', ' Horror', ' Thriller']",Roman Polanski,7.6
+358,Black Narcissus,1947,101,['Drama'],Michael Powell,7.7
+359,"Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",1975,202,['Drama'],Chantal Akerman,7.5
+360,Kaguya-hime no monogatari,2013,137,"['Animation', ' Drama', ' Family']",Isao Takahata,8.0
+361,Sátántangó,1994,439,['Drama'],Béla Tarr,8.2
+362,Amour,2012,127,['Drama'],Michael Haneke,7.9
+363,Touch of Evil,1958,95,"['Crime', ' Drama', ' Film-Noir']",Orson Welles,8.0
+364,The Band Wagon,1953,112,"['Comedy', ' Musical', ' Romance']",Vincente Minnelli,7.4
+365,Trois couleurs: Rouge,1994,99,"['Drama', ' Mystery', ' Romance']",Krzysztof Kieslowski,8.1
+366,A Matter of Life and Death,1946,104,"['Drama', ' Fantasy', ' Romance']",Michael Powell,8.0
+367,Tôkyô monogatari,1953,136,['Drama'],Yasujirô Ozu,8.1
+368,Kubo and the Two Strings,2016,101,"['Animation', ' Action', ' Adventure']",Travis Knight,7.7
+369,Fanny och Alexander,1982,188,['Drama'],Ingmar Bergman,8.1
+370,Jodorowsky's Dune,2013,90,['Documentary'],Frank Pavich,8.0
+371,The Adventures of Robin Hood,1938,102,"['Action', ' Adventure', ' Romance']",Michael Curtiz,7.9
+372,Les parapluies de Cherbourg,1964,91,"['Drama', ' Musical', ' Romance']",Jacques Demy,7.8
+373,Le salaire de la peur,1953,131,"['Adventure', ' Drama', ' Thriller']",Henri-Georges Clouzot,8.2
+374,The Station Agent,2003,89,"['Comedy', ' Drama']",Tom McCarthy,7.6
+375,Smultronstället,1957,91,"['Drama', ' Romance']",Ingmar Bergman,8.1
+376,Le Samouraï,1967,105,"['Crime', ' Drama', ' Thriller']",Jean-Pierre Melville,8.0
+377,Footlight Parade,1933,104,"['Comedy', ' Musical', ' Romance']",Lloyd Bacon,7.5
+378,Profondo rosso,1975,127,"['Horror', ' Mystery', ' Thriller']",Dario Argento,7.5
+379,Zimna wojna,2018,89,"['Drama', ' Music', ' Romance']",Pawel Pawlikowski,7.5
+380,Nashville,1975,160,"['Comedy', ' Drama', ' Music']",Robert Altman,7.6
+381,Grey Gardens,1975,95,"['Documentary', ' Comedy', ' Drama']",Ellen Hovde,7.5
+382,À bout de souffle,1960,90,"['Crime', ' Drama']",Jean-Luc Godard,7.7
+383,Hoop Dreams,1994,170,"['Documentary', ' Drama', ' Sport']",Steve James,8.3
+384,The Man Who Would Be King,1975,129,"['Adventure', ' War']",John Huston,7.8
+385,The Treasure of the Sierra Madre,1948,126,"['Adventure', ' Drama', ' Western']",John Huston,8.2
+386,His Girl Friday,1940,92,"['Comedy', ' Drama', ' Romance']",Howard Hawks,7.8
+387,Shadow of a Doubt,1943,108,"['Film-Noir', ' Thriller']",Alfred Hitchcock,7.8
+388,Tanpopo,1985,114,['Comedy'],Jûzô Itami,7.9
+389,A Woman Under the Influence,1974,155,"['Drama', ' Romance']",John Cassavetes,8.1
+390,Stalag 17,1953,120,"['Comedy', ' Drama', ' War']",Billy Wilder,8.0
+391,Le mépris,1963,103,"['Drama', ' Romance']",Jean-Luc Godard,7.5
+392,Den skyldige,2018,85,"['Crime', ' Drama', ' Thriller']",Gustav Möller,7.5
+393,Plein soleil,1960,118,"['Crime', ' Drama', ' Thriller']",René Clément,7.7
+394,Secrets & Lies,1996,136,"['Comedy', ' Drama']",Mike Leigh,8.0
+395,Vivre sa vie: Film en douze tableaux,1962,80,['Drama'],Jean-Luc Godard,7.8
+396,Shoah,1985,566,"['Documentary', ' History', ' War']",Claude Lanzmann,8.7
+397,Yi yi,2000,173,"['Drama', ' Romance']",Edward Yang,8.1
+398,A Hard Day's Night,1964,87,"['Comedy', ' Musical']",Richard Lester,7.5
+399,Brief Encounter,1945,86,"['Drama', ' Romance']",David Lean,8.0
+400,Nostalgia,1983,125,['Drama'],Andrei Tarkovsky,7.9
+401,Kumonosu-jô,1957,110,['Drama'],Akira Kurosawa,8.1
+402,Le scaphandre et le papillon,2007,112,"['Biography', ' Drama']",Julian Schnabel,8.0
+403,Hable con ella,2002,112,"['Drama', ' Mystery', ' Romance']",Pedro Almodóvar,7.9
+404,They Shall Not Grow Old,II 2018,99,"['Documentary', ' History', ' War']",Peter Jackson,8.2
+405,Laura,1944,88,"['Drama', ' Film-Noir', ' Mystery']",Otto Preminger,7.9
+406,El abrazo de la serpiente,2015,125,"['Adventure', ' Biography', ' Drama']",Ciro Guerra,7.8
+407,Song of the Sea,2014,93,"['Animation', ' Adventure', ' Drama']",Tomm Moore,8.0
+408,Three Identical Strangers,2018,96,"['Documentary', ' Biography', ' Drama']",Tim Wardle,7.6
+409,Il gattopardo,1963,186,"['Drama', ' History']",Luchino Visconti,7.9
+410,Suna no onna,1964,147,"['Drama', ' Thriller']",Hiroshi Teshigahara,8.5
+411,Les yeux sans visage,1960,90,"['Drama', ' Horror']",Georges Franju,7.6
+412,The Sweet Hereafter,1997,112,['Drama'],Atom Egoyan,7.5
+413,Can You Ever Forgive Me?,2018,106,"['Biography', ' Comedy', ' Crime']",Marielle Heller,7.1
+414,When We Were Kings,1996,88,"['Documentary', ' Sport']",Leon Gast,7.9
+415,Andrei Rublev,1966,205,"['Biography', ' Drama', ' History']",Andrei Tarkovsky,8.1
+416,Out of the Past,1947,97,"['Crime', ' Drama', ' Film-Noir']",Jacques Tourneur,8.0
+417,Great Expectations,1946,118,"['Adventure', ' Drama', ' Mystery']",David Lean,7.8
+418,Holiday,1938,95,"['Comedy', ' Romance']",George Cukor,7.7
+419,Scarface,1932,93,"['Action', ' Crime', ' Drama']",Howard Hawks,7.7
+420,My Darling Clementine,1946,97,"['Drama', ' Romance', ' Western']",John Ford,7.7
+421,Wake in Fright,1971,109,"['Drama', ' Thriller']",Ted Kotcheff,7.6
+422,Un prophète,2009,155,"['Crime', ' Drama']",Jacques Audiard,7.8
+423,Point Blank,1967,92,"['Crime', ' Drama', ' Thriller']",John Boorman,7.3
+424,Marty,1955,90,"['Drama', ' Romance']",Delbert Mann,7.7
+425,Ah fei jing juen,1990,100,"['Crime', ' Drama', ' Romance']",Kar-Wai Wong,7.4
+426,The Friends of Eddie Coyle,1973,102,"['Crime', ' Drama']",Peter Yates,7.4
+427,Todo sobre mi madre,1999,101,"['Comedy', ' Drama', ' Romance']",Pedro Almodóvar,7.8
+428,Red River,1948,133,"['Drama', ' Western']",Howard Hawks,7.8
+429,La battaglia di Algeri,1966,121,"['Drama', ' War']",Gillo Pontecorvo,8.1
+430,Gilda,1946,110,"['Drama', ' Film-Noir', ' Romance']",Charles Vidor,7.6
+431,Amarcord,1973,123,"['Comedy', ' Drama']",Federico Fellini,7.8
+432,To Be or Not to Be,1942,99,"['Comedy', ' Romance', ' War']",Ernst Lubitsch,8.1
+433,Sleuth,1972,138,"['Mystery', ' Thriller']",Joseph L. Mankiewicz,8.0
+434,Mies vailla menneisyyttä,2002,97,"['Comedy', ' Drama', ' Romance']",Aki Kaurismäki,7.6
+435,La passion de Jeanne d'Arc,1928,110,"['Biography', ' Drama', ' History']",Carl Theodor Dreyer,8.1
+436,The Shop Around the Corner,1940,99,"['Comedy', ' Drama', ' Romance']",Ernst Lubitsch,8.0
+437,Key Largo,1948,100,"['Action', ' Crime', ' Drama']",John Huston,7.7
+438,La règle du jeu,1939,110,"['Comedy', ' Drama']",Jean Renoir,7.9
+439,The General,1926,78,"['Action', ' Adventure', ' Comedy']",Clyde Bruckman,8.1
+440,Omohide poro poro,1991,119,"['Animation', ' Drama', ' Romance']",Isao Takahata,7.6
+441,Starred Up,2013,106,"['Crime', ' Drama', ' Thriller']",David Mackenzie,7.3
+442,Le charme discret de la bourgeoisie,1972,102,['Comedy'],Luis Buñuel,7.8
+443,Touching the Void,2003,106,"['Documentary', ' Adventure', ' Drama']",Kevin Macdonald,8.0
+444,Babettes gæstebud,1987,103,['Drama'],Gabriel Axel,7.8
+445,Kakushi-toride no san-akunin,1958,139,"['Action', ' Adventure', ' Drama']",Akira Kurosawa,8.1
+446,Ida,2013,82,['Drama'],Pawel Pawlikowski,7.4
+447,Nelyubov,2017,127,['Drama'],Andrey Zvyagintsev,7.6
+448,Viskningar och rop,1972,91,['Drama'],Ingmar Bergman,8.0
+449,A Night to Remember,1958,123,"['Drama', ' History']",Roy Ward Baker,7.9
+450,A New Leaf,1971,102,"['Comedy', ' Romance']",Elaine May,7.3
+451,Searching for Sugar Man,2012,86,"['Documentary', ' Biography', ' Music']",Malik Bendjelloul,8.2
+452,Dip huet seung hung,1989,111,"['Action', ' Crime', ' Drama']",John Woo,7.8
+453,Tasogare Seibei,2002,129,"['Drama', ' Romance']",Yôji Yamada,8.1
+454,The Innocents,1961,100,['Horror'],Jack Clayton,7.8
+455,"Oslo, 31. august",2011,95,['Drama'],Joachim Trier,7.6
+456,Ahlat Agaci,2018,188,['Drama'],Nuri Bilge Ceylan,8.0
+457,Bringing Up Baby,1938,102,['Comedy'],Howard Hawks,7.8
+458,The Tale,2018,114,"['Biography', ' Drama', ' Mystery']",Jennifer Fox,7.2
+459,Cléo de 5 à 7,1962,90,"['Comedy', ' Drama', ' Music']",Agnès Varda,7.8
+460,My Man Godfrey,1936,94,"['Comedy', ' Drama', ' Romance']",Gregory La Cava,7.9
+461,Persepolis,2007,96,"['Animation', ' Biography', ' Drama']",Vincent Paronnaud,8.0
+462,Voyna i mir,1965,393,"['Drama', ' Romance', ' War']",Sergey Bondarchuk,8.3
+463,The Salt of the Earth,2014,110,"['Documentary', ' Biography', ' History']",Juliano Ribeiro Salgado,8.4
+464,L'avventura,1960,144,"['Drama', ' Mystery', ' Romance']",Michelangelo Antonioni,7.7
+465,The Kid,1921,68,"['Comedy', ' Drama', ' Family']",Charles Chaplin,8.2
+466,Oliver Twist,1948,116,['Drama'],David Lean,7.8
+467,Phoenix,II 2014,98,"['Drama', ' History', ' Music']",Christian Petzold,7.3
+468,The Thin Man,1934,91,"['Comedy', ' Crime', ' Mystery']",W.S. Van Dyke,7.9
+469,In a Lonely Place,1950,94,"['Drama', ' Film-Noir', ' Mystery']",Nicholas Ray,7.9
+470,American Movie,1999,107,"['Documentary', ' Comedy']",Chris Smith,7.8
+471,If....,1968,111,"['Crime', ' Drama']",Lindsay Anderson,7.4
+472,Safety Last!,1923,74,"['Action', ' Comedy', ' Thriller']",Fred C. Newmeyer,8.1
+473,The Last Waltz,1978,117,"['Documentary', ' Biography', ' Music']",Martin Scorsese,8.1
+474,The Killers,1946,103,"['Crime', ' Drama', ' Film-Noir']",Robert Siodmak,7.7
+475,Hedwig and the Angry Inch,2001,95,"['Comedy', ' Drama', ' Music']",John Cameron Mitchell,7.7
+476,Amy,III 2015,128,"['Documentary', ' Biography', ' Music']",Asif Kapadia,7.8
+477,Nema-ye Nazdik,1990,98,"['Biography', ' Crime', ' Drama']",Abbas Kiarostami,8.2
+478,Bom yeoreum gaeul gyeoul geurigo bom,2003,103,"['Drama', ' Romance']",Kim Ki-duk,8.0
+479,The Odd Couple,1968,105,['Comedy'],Gene Saks,7.6
+480,Sunrise: A Song of Two Humans,1927,94,"['Drama', ' Romance']",F.W. Murnau,8.1
+481,La strada,1954,108,['Drama'],Federico Fellini,8.0
+482,I Know Where I'm Going!,1945,92,"['Drama', ' Romance']",Michael Powell,7.4
+483,A Trip to the Moon,1902,13,"['Short', ' Action', ' Adventure']",Georges Méliès,8.1
+484,Forooshande,2016,124,"['Drama', ' Thriller']",Asghar Farhadi,7.7
+485,Lagaan: Once Upon a Time in India,2001,224,"['Drama', ' Musical', ' Sport']",Ashutosh Gowariker,8.1
+486,Sweet Smell of Success,1957,96,"['Drama', ' Film-Noir']",Alexander Mackendrick,8.0
+487,Les diaboliques,1955,117,"['Crime', ' Drama', ' Horror']",Henri-Georges Clouzot,8.1
+488,La nuit américaine,1973,116,"['Comedy', ' Drama', ' Romance']",François Truffaut,8.0
+489,Rocco e i suoi fratelli,1960,179,"['Crime', ' Drama', ' Sport']",Luchino Visconti,8.2
+490,Z,1969,127,"['Crime', ' Drama', ' Thriller']",Costa-Gavras,8.2
+491,Au revoir les enfants,1987,104,"['Drama', ' War']",Louis Malle,8.0
+492,Ivanovo detstvo,1962,95,"['Drama', ' War']",Andrei Tarkovsky,8.0
+493,The Heiress,1949,115,"['Drama', ' Romance']",William Wyler,8.1
+494,Guling jie shaonian sharen shijian,1991,237,"['Crime', ' Drama', ' Romance']",Edward Yang,8.2
+495,Kes,1969,111,"['Drama', ' Family']",Ken Loach,7.9
+496,Werckmeister harmóniák,2000,145,"['Drama', ' Mystery']",Béla Tarr,8.0
+497,The Lost Weekend,1945,101,"['Drama', ' Film-Noir']",Billy Wilder,7.9
+498,Aruitemo aruitemo,2008,115,['Drama'],Kore-eda Hirokazu,7.9
+499,Shaun the Sheep Movie,2015,85,"['Animation', ' Adventure', ' Comedy']",Mark Burton,7.3
+500,Winchester '73,1950,92,"['Action', ' Drama', ' Western']",Anthony Mann,7.6
+501,Pather Panchali,1955,125,['Drama'],Satyajit Ray,8.2
+502,El ángel exterminador,1962,95,"['Drama', ' Fantasy']",Luis Buñuel,8.0
+503,Meet Me in St. Louis,1944,113,"['Comedy', ' Drama', ' Family']",Vincente Minnelli,7.5
+504,The Magnificent Ambersons,1942,88,"['Drama', ' Romance']",Orson Welles,7.6
+505,Da hong denglong gaogao gua,1991,125,"['Drama', ' Romance']",Yimou Zhang,8.1
+506,Cría cuervos,1976,105,['Drama'],Carlos Saura,7.9
+507,White Heat,1949,114,"['Action', ' Crime', ' Drama']",Raoul Walsh,8.1
+508,Diva,1981,117,"['Crime', ' Music', ' Thriller']",Jean-Jacques Beineix,7.2
+509,Jules et Jim,1962,105,"['Drama', ' Romance']",François Truffaut,7.7
+510,The Big Heat,1953,89,"['Crime', ' Film-Noir', ' Thriller']",Fritz Lang,7.9
+511,The Invisible Man,1933,71,"['Horror', ' Sci-Fi']",James Whale,7.6
+512,Kind Hearts and Coronets,1949,106,"['Comedy', ' Crime']",Robert Hamer,8.0
+513,The Asphalt Jungle,1950,112,"['Crime', ' Drama', ' Film-Noir']",John Huston,7.8
+514,Il grande silenzio,1968,105,"['Drama', ' Western']",Sergio Corbucci,7.7
+515,Sherlock Jr.,1924,45,"['Action', ' Comedy', ' Romance']",Buster Keaton,8.2
+516,Playtime,1967,155,['Comedy'],Jacques Tati,7.8
+517,Cet obscur objet du désir,1977,103,"['Comedy', ' Drama', ' Romance']",Luis Buñuel,7.8
+518,Napoléon vu par Abel Gance,1927,330,"['Biography', ' Drama', ' History']",Abel Gance,8.2
+519,Darbareye Elly,2009,119,"['Drama', ' Mystery']",Asghar Farhadi,7.9
+520,Mitt liv som hund,1985,101,"['Drama', ' Comedy']",Lasse Hallström,7.6
+521,Hiroshima mon amour,1959,90,"['Drama', ' Romance']",Alain Resnais,7.8
+522,Il postino,1994,108,"['Biography', ' Comedy', ' Drama']",Michael Radford,7.8
+523,It's Such a Beautiful Day,2012,62,"['Animation', ' Comedy', ' Drama']",Don Hertzfeldt,8.2
+524,"4 luni, 3 saptamâni si 2 zile",2007,113,['Drama'],Cristian Mungiu,7.9
+525,The Gold Rush,1925,95,"['Adventure', ' Comedy', ' Drama']",Charles Chaplin,8.1
+526,Il deserto rosso,1964,117,['Drama'],Michelangelo Antonioni,7.5
+527,Jungfrukällan,1960,89,['Drama'],Ingmar Bergman,8.0
+528,Bad Day at Black Rock,1955,81,"['Crime', ' Drama', ' Mystery']",John Sturges,7.7
+529,Le cercle rouge,1970,140,"['Crime', ' Drama', ' Thriller']",Jean-Pierre Melville,7.9
+530,Les triplettes de Belleville,2003,80,"['Animation', ' Adventure', ' Comedy']",Sylvain Chomet,7.7
+531,The Ox-Bow Incident,1942,75,"['Drama', ' Western']",William A. Wellman,8.0
+532,L'eclisse,1962,126,"['Drama', ' Romance']",Michelangelo Antonioni,7.7
+533,Vals Im Bashir,2008,90,"['Documentary', ' Animation', ' Biography']",Ari Folman,8.0
+534,Le notti di Cabiria,1957,110,['Drama'],Federico Fellini,8.1
+535,El espíritu de la colmena,1973,98,"['Drama', ' Fantasy']",Víctor Erice,7.8
+536,Apollo 11,I 2019,93,"['Documentary', ' History']",Todd Douglas Miller,8.1
+537,Vozvrashchenie,2003,110,['Drama'],Andrey Zvyagintsev,7.9
+538,Kiss Me Deadly,1955,106,"['Crime', ' Film-Noir', ' Mystery']",Robert Aldrich,7.5
+539,Room at the Top,1958,117,"['Drama', ' Romance']",Jack Clayton,7.5
+540,Tini zabutykh predkiv,1965,97,"['Drama', ' Romance']",Sergei Parajanov,7.8
+541,Un chien andalou,1929,16,"['Short', ' Fantasy', ' Horror']",Luis Buñuel,7.6
+542,Chelovek s kino-apparatom,1929,68,['Documentary'],Dziga Vertov,8.3
+543,The Train,1964,133,"['Action', ' Thriller', ' War']",John Frankenheimer,7.8
+544,Die Ehe der Maria Braun,1979,120,['Drama'],Rainer Werner Fassbinder,7.7
+545,Bronenosets Potemkin,1925,75,"['Drama', ' History', ' Thriller']",Sergei Eisenstein,7.9
+546,Sans toit ni loi,1985,105,['Drama'],Agnès Varda,7.7
+547,The Hill,1965,123,"['Drama', ' War']",Sidney Lumet,7.9
+548,Dom za vesanje,1988,142,"['Comedy', ' Crime', ' Drama']",Emir Kusturica,8.1
+549,Ace in the Hole,1951,111,"['Drama', ' Film-Noir']",Billy Wilder,8.1
+550,La tortue rouge,2016,80,"['Animation', ' Drama', ' Family']",Michael Dudok de Wit,7.5
+551,Duck Soup,1933,69,"['Comedy', ' Musical']",Leo McCarey,7.7
+552,La jetée,1962,28,"['Short', ' Drama', ' Romance']",Chris Marker,8.2
+553,Sanjuro,1962,96,"['Action', ' Drama', ' Thriller']",Akira Kurosawa,8.0
+554,Såsom i en spegel,1961,90,['Drama'],Ingmar Bergman,7.9
+555,Huo zhe,1994,133,"['Drama', ' War']",Yimou Zhang,8.3
+556,The Army of Shadows,1969,145,"['Drama', ' War']",Jean-Pierre Melville,8.1
+557,The Hunchback of Notre Dame,1939,116,"['Drama', ' Horror', ' Romance']",William Dieterle,7.8
+558,Chalard games goeng,2017,130,"['Comedy', ' Crime', ' Drama']",Baz Poonpiriya,7.6
+559,Höstsonaten,1978,99,"['Drama', ' Music']",Ingmar Bergman,8.1
+560,Vampyr,1932,75,"['Fantasy', ' Horror']",Carl Theodor Dreyer,7.4
+561,The Public Enemy,1931,83,"['Crime', ' Drama']",William A. Wellman,7.6
+562,La ciociara,1960,101,"['Drama', ' War']",Vittorio De Sica,7.7
+563,Krótki film o milosci,1988,87,"['Drama', ' Romance']",Krzysztof Kieslowski,8.1
+564,Ugetsu monogatari,1953,96,"['Drama', ' Fantasy', ' War']",Kenji Mizoguchi,8.2
+565,Ascenseur pour l'échafaud,1958,91,"['Crime', ' Drama', ' Thriller']",Louis Malle,7.9
+566,Odd Man Out,1947,116,"['Crime', ' Drama', ' Film-Noir']",Carol Reed,7.6
+567,Love and Death,1975,85,"['Comedy', ' War']",Woody Allen,7.7
+568,La meglio gioventù,2003,374,"['Drama', ' Romance']",Marco Tullio Giordana,8.5
+569,El sur,1983,95,"['Drama', ' Mystery', ' Romance']",Víctor Erice,7.8
+570,Tulitikkutehtaan tyttö,1990,69,"['Comedy', ' Crime', ' Drama']",Aki Kaurismäki,7.5
+571,Bob le flambeur,1956,98,"['Crime', ' Drama', ' Thriller']",Jean-Pierre Melville,7.6
+572,Angst essen Seele auf,1974,92,"['Drama', ' Romance']",Rainer Werner Fassbinder,8.0
+573,The Ladykillers,1955,91,"['Comedy', ' Crime']",Alexander Mackendrick,7.6
+574,"Deux jours, une nuit",2014,95,['Drama'],Jean-Pierre Dardenne,7.3
+575,Scener ur ett äktenskap,1974,169,['Drama'],Ingmar Bergman,8.3
+576,Popiól i diament,1958,103,"['Drama', ' Romance', ' War']",Andrzej Wajda,7.7
+577,The Draughtsman's Contract,1982,108,"['Comedy', ' Drama', ' Mystery']",Peter Greenaway,7.2
+578,Nuit et brouillard,1956,32,"['Documentary', ' Short', ' History']",Alain Resnais,8.6
+579,Pauline à la plage,1983,95,"['Comedy', ' Drama', ' Romance']",Éric Rohmer,7.3
+580,Central do Brasil,1998,110,['Drama'],Walter Salles,8.0
+581,Una giornata particolare,1977,106,['Drama'],Ettore Scola,8.1
+582,Atlantic City,1980,104,"['Crime', ' Drama', ' Romance']",Louis Malle,7.3
+583,Ball of Fire,1941,111,"['Comedy', ' Romance']",Howard Hawks,7.7
+584,Night of the Demon,1957,96,"['Fantasy', ' Horror', ' Mystery']",Jacques Tourneur,7.4
+585,The Rider,2017,104,"['Drama', ' Western']",Chloé Zhao,7.4
+586,Hana-bi,1997,103,"['Crime', ' Drama', ' Romance']",Takeshi Kitano,7.7
+587,La Belle et la Bête,1946,96,"['Drama', ' Fantasy', ' Romance']",Jean Cocteau,7.9
+588,Mustang,2015,97,['Drama'],Deniz Gamze Ergüven,7.6
+589,Au hasard Balthazar,1966,95,['Drama'],Robert Bresson,7.8
+590,Angels with Dirty Faces,1938,97,"['Crime', ' Drama', ' Film-Noir']",Michael Curtiz,7.9
+591,Banshun,1949,108,['Drama'],Yasujirô Ozu,8.2
+592,A Night at the Opera,1935,96,"['Comedy', ' Music', ' Musical']",Sam Wood,7.8
+593,Pixote: A Lei do Mais Fraco,1980,128,"['Crime', ' Drama']",Hector Babenco,7.9
+594,L'année dernière à Marienbad,1961,94,"['Drama', ' Mystery']",Alain Resnais,7.7
+595,Viridiana,1961,91,['Drama'],Luis Buñuel,8.1
+596,Baby Doll,1956,114,"['Comedy', ' Drama']",Elia Kazan,7.3
+597,120 battements par minute,2017,143,['Drama'],Robin Campillo,7.4
+598,Letyat zhuravli,1957,95,"['Drama', ' Romance', ' War']",Mikhail Kalatozov,8.3
+599,La Grande Illusion,1937,113,"['Drama', ' War']",Jean Renoir,8.1
+600,Limelight,1952,137,"['Drama', ' Music', ' Romance']",Charles Chaplin,8.0
+601,Sullivan's Travels,1941,90,"['Adventure', ' Comedy', ' Drama']",Preston Sturges,7.9
+602,The Tall T,1957,78,['Western'],Budd Boetticher,7.3
+603,Un condamné à mort s'est échappé ou Le vent souffle où il veut,1956,101,"['Drama', ' Thriller', ' War']",Robert Bresson,8.2
+604,Ma vie de Courgette,2016,66,"['Animation', ' Comedy', ' Drama']",Claude Barras,7.8
+605,'Breaker' Morant,1980,107,"['Drama', ' History', ' War']",Bruce Beresford,7.8
+606,Medena zemja,2019,89,"['Documentary', ' Drama']",Tamara Kotevska,8.0
+607,Le trou,1960,131,"['Crime', ' Drama', ' Thriller']",Jacques Becker,8.5
+608,Du rififi chez les hommes,1955,118,"['Crime', ' Drama', ' Thriller']",Jules Dassin,8.1
+609,A Patch of Blue,1965,105,"['Drama', ' Romance']",Guy Green,8.0
+610,Bande à part,1964,95,"['Comedy', ' Crime', ' Drama']",Jean-Luc Godard,7.6
+611,Love Streams,1984,141,['Drama'],John Cassavetes,7.6
+612,Sholay,1975,204,"['Action', ' Adventure', ' Comedy']",Ramesh Sippy,8.1
+613,La maman et la putain,1973,217,"['Drama', ' Romance']",Jean Eustache,7.8
+614,The Big Sleep,1978,99,"['Crime', ' Drama', ' Mystery']",Michael Winner,5.7
+615,Captain Blood,1935,119,"['Action', ' Adventure', ' History']",Michael Curtiz,7.7
+616,Top Hat,1935,101,"['Comedy', ' Musical', ' Romance']",Mark Sandrich,7.7
+617,The Pawnbroker,1964,116,['Drama'],Sidney Lumet,7.7
+618,I vitelloni,1953,109,"['Comedy', ' Drama']",Federico Fellini,7.8
+619,Alice in den Städten,1974,113,['Drama'],Wim Wenders,7.9
+620,Jean de Florette,1986,120,"['Comedy', ' Drama']",Claude Berri,8.1
+621,Matewan,1987,135,"['Drama', ' History']",John Sayles,7.9
+622,Roma città aperta,1945,103,"['Drama', ' Thriller', ' War']",Roberto Rossellini,8.0
+623,Johnny Guitar,1954,110,"['Drama', ' Western']",Nicholas Ray,7.6
+624,Die Büchse der Pandora,1929,109,"['Crime', ' Drama', ' Romance']",Georg Wilhelm Pabst,7.8
+625,Ma nuit chez Maud,1969,110,"['Comedy', ' Drama', ' Romance']",Éric Rohmer,7.8
+626,Only Angels Have Wings,1939,121,"['Adventure', ' Drama', ' Romance']",Howard Hawks,7.6
+627,Jiro Dreams of Sushi,2011,81,['Documentary'],David Gelb,7.8
+628,Man of the West,1958,100,['Western'],Anthony Mann,7.1
+629,Bad ma ra khahad bord,1999,118,['Drama'],Abbas Kiarostami,7.4
+630,The Life and Death of Colonel Blimp,1943,163,"['Drama', ' Romance', ' War']",Michael Powell,8.0
+631,Knife in the Water,1962,94,"['Drama', ' Thriller']",Roman Polanski,7.4
+632,C.R.A.Z.Y.,2005,129,"['Comedy', ' Drama']",Jean-Marc Vallée,7.8
+633,Shanghai Express,1932,82,"['Adventure', ' Drama', ' Film-Noir']",Josef von Sternberg,7.3
+634,The Little Foxes,1941,116,"['Drama', ' Romance']",William Wyler,7.9
+635,Pickpocket,1959,76,"['Crime', ' Drama']",Robert Bresson,7.6
+636,Ninotchka,1939,110,"['Comedy', ' Romance']",Ernst Lubitsch,7.8
+637,Maboroshi no hikari,1995,110,['Drama'],Kore-eda Hirokazu,7.5
+638,Jeder für sich und Gott gegen alle,1974,110,"['Biography', ' Drama', ' History']",Werner Herzog,7.7
+639,Aquarius,I 2016,146,['Drama'],Kleber Mendonça Filho,7.4
+640,Apur Sansar,1959,105,['Drama'],Satyajit Ray,8.5
+641,Campanadas a medianoche,1965,119,"['Comedy', ' Drama', ' History']",Orson Welles,7.6
+642,An Autumn Afternoon,1962,113,['Drama'],Yasujirô Ozu,8.0
+643,Voskhozhdenie,1977,111,"['Drama', ' War']",Larisa Shepitko,8.2
+644,The Lady Eve,1941,94,"['Comedy', ' Romance']",Preston Sturges,7.7
+645,Krótki film o zabijaniu,1988,84,"['Crime', ' Drama']",Krzysztof Kieslowski,8.0
+646,Carlos,2010,334,"['Biography', ' Crime', ' Drama']",Edgar Ramírez,7.6
+647,Le ballon rouge,1956,34,"['Short', ' Comedy', ' Drama']",Albert Lamorisse,8.1
+648,Umberto D.,1952,89,['Drama'],Vittorio De Sica,8.2
+649,Trudno byt bogom,2013,177,"['Drama', ' Sci-Fi']",Aleksey German,6.6
+650,Los olvidados,1950,85,"['Crime', ' Drama']",Luis Buñuel,8.2
+651,Zelig,1983,79,['Comedy'],Woody Allen,7.7
+652,Mon oncle,1958,116,['Comedy'],Jacques Tati,7.7
+653,Stroszek,1977,115,"['Comedy', ' Drama']",Werner Herzog,7.7
+654,Camille Claudel,1988,175,"['Biography', ' Drama', ' History']",Bruno Nuytten,7.3
+655,Shi,2010,139,['Drama'],Lee Chang-dong,7.8
+656,Indagine su un cittadino al di sopra di ogni sospetto,1970,115,"['Crime', ' Drama']",Elio Petri,8.0
+657,Le genou de Claire,1970,105,"['Drama', ' Romance']",Éric Rohmer,7.5
+658,Masculin féminin,1966,110,"['Drama', ' Romance']",Jean-Luc Godard,7.4
+659,Pina,2011,103,"['Documentary', ' Music']",Wim Wenders,7.6
+660,Greed,1924,140,"['Drama', ' Thriller', ' Western']",Erich von Stroheim,8.0
+661,Utvandrarna,1971,191,"['Drama', ' History']",Jan Troell,8.0
+662,Ordet,1955,126,['Drama'],Carl Theodor Dreyer,8.2
+663,The Lavender Hill Mob,1951,78,"['Comedy', ' Crime']",Charles Crichton,7.5
+664,Gimme Shelter,1970,91,"['Documentary', ' Music', ' Thriller']",Albert Maysles,7.8
+665,Le fantôme de la liberté,1974,104,['Comedy'],Luis Buñuel,7.8
+666,Narayama bushikô,1983,130,['Drama'],Shôhei Imamura,7.8
+667,Il vangelo secondo Matteo,1964,137,"['Biography', ' Drama', ' History']",Pier Paolo Pasolini,7.6
+668,Welt am Draht,1973,212,"['Crime', ' Mystery', ' Sci-Fi']",Klaus Löwitsch,7.7
+669,Que Horas Ela Volta?,2015,112,"['Comedy', ' Drama']",Anna Muylaert,7.7
+670,Le mari de la coiffeuse,1990,82,"['Comedy', ' Drama', ' Romance']",Patrice Leconte,7.1
+671,Life Is Sweet,1990,103,"['Comedy', ' Drama']",Mike Leigh,7.4
+672,Berlin Alexanderplatz,1980,931,"['Crime', ' Drama']",Günter Lamprecht,8.4
+673,Pred dozhdot,1994,113,"['Drama', ' Romance', ' War']",Milcho Manchevski,7.9
+674,Journal d'un curé de campagne,1951,115,['Drama'],Robert Bresson,7.8
+675,Les vacances de Monsieur Hulot,1953,114,['Comedy'],Jacques Tati,7.3
+676,Koroshi no rakuin,1967,91,"['Action', ' Crime', ' Drama']",Seijun Suzuki,7.2
+677,And Life Goes on...,1992,95,"['Adventure', ' Drama']",Abbas Kiarostami,7.9
+678,Fury,1936,92,"['Crime', ' Drama', ' Film-Noir']",Fritz Lang,7.8
+679,Krisha,2015,83,['Drama'],Trey Edward Shults,7.1
+680,Went the Day Well?,1942,92,"['Thriller', ' War']",Alberto Cavalcanti,7.5
+681,Der blaue Engel,1930,104,"['Drama', ' Music']",Josef von Sternberg,7.7
+682,Il sorpasso,1962,108,"['Comedy', ' Drama']",Dino Risi,8.2
+683,Aparajito,1956,110,['Drama'],Satyajit Ray,8.2
+684,Warui yatsu hodo yoku nemuru,1960,151,"['Crime', ' Drama', ' Thriller']",Akira Kurosawa,8.0
+685,Battleground,1949,118,"['Action', ' Drama', ' History']",William A. Wellman,7.4
+686,For All Mankind,1989,80,"['Documentary', ' History']",Al Reinert,8.1
+687,Stories We Tell,2012,108,['Documentary'],Sarah Polley,7.5
+688,The Circus,1928,72,"['Comedy', ' Family', ' Romance']",Charles Chaplin,8.1
+689,Young Mr. Lincoln,1939,100,"['Biography', ' Drama', ' History']",John Ford,7.5
+690,The Unknown,1927,68,"['Drama', ' Horror', ' Romance']",Tod Browning,7.7
+691,Les enfants du paradis,1945,189,"['Drama', ' Romance']",Marcel Carné,8.3
+692,Twenty Feet from Stardom,2013,91,"['Documentary', ' Biography', ' History']",Morgan Neville,7.4
+693,Tristana,1970,99,['Drama'],Luis Buñuel,7.4
+694,L'âge d'or,1930,60,"['Comedy', ' Drama']",Luis Buñuel,7.2
+695,Lola,1981,115,"['Drama', ' Romance']",Rainer Werner Fassbinder,7.4
+696,Orphée,1950,112,"['Drama', ' Fantasy', ' Romance']",Jean Cocteau,7.9
+697,L'argent,1983,85,"['Crime', ' Drama']",Robert Bresson,7.4
+698,Visages villages,2017,94,['Documentary'],JR,7.8
+699,7 Men from Now,1956,78,['Western'],Budd Boetticher,7.4
+700,This Happy Breed,1944,115,"['Comedy', ' Drama']",David Lean,7.3
+701,Divorzio all'italiana,1961,105,"['Comedy', ' Drama', ' Romance']",Pietro Germi,8.0
+702,Housekeeping,1987,116,"['Comedy', ' Drama']",Bill Forsyth,7.1
+703,Qingshaonian Nuozha,1992,106,"['Crime', ' Drama', ' Romance']",Tsai Ming-liang,7.5
+704,'Round Midnight,1986,133,"['Drama', ' Music']",Bertrand Tavernier,7.4
+705,Trouble in Paradise,1932,83,"['Comedy', ' Crime', ' Romance']",Ernst Lubitsch,7.9
+706,Fat City,1972,96,"['Drama', ' Sport']",John Huston,7.3
+707,On Dangerous Ground,1951,82,"['Drama', ' Film-Noir']",Nicholas Ray,7.2
+708,Germania anno zero,1948,78,['Drama'],Roberto Rossellini,7.8
+709,The War Game,1966 TV Movie,48,"['Drama', ' War']",Peter Watkins,8.0
+710,The More the Merrier,1943,104,['Comedy'],George Stevens,7.6
+711,Sans soleil,1983,104,"['Documentary', ' Drama']",Chris Marker,7.8
+712,The Gunfighter,1950,85,['Western'],Henry King,7.7
+713,Le doulos,1962,108,"['Crime', ' Thriller']",Jean-Pierre Melville,7.7
+714,This Sporting Life,1963,134,"['Drama', ' Sport']",Lindsay Anderson,7.5
+715,Marketa Lazarová,1967,162,"['Drama', ' History', ' Romance']",Frantisek Vlácil,7.9
+716,The Fallen Idol,1948,95,"['Drama', ' Film-Noir', ' Mystery']",Carol Reed,7.6
+717,Meshes of the Afternoon,1943,14,"['Short', ' Fantasy', ' Mystery']",Maya Deren,7.8
+718,Sanshô dayû,1954,124,['Drama'],Kenji Mizoguchi,8.4
+719,The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France,1944,137,"['Biography', ' Drama', ' History']",Laurence Olivier,7.0
+720,Criss Cross,1949,84,"['Crime', ' Drama', ' Film-Noir']",Robert Siodmak,7.4
+721,Nanjing! Nanjing!,2009,132,"['Drama', ' History', ' War']",Chuan Lu,7.7
+722,Morocco,1930,92,"['Drama', ' Romance']",Josef von Sternberg,7.0
+723,Aleksandr Nevskiy,1938,112,"['Action', ' Biography', ' Drama']",Sergei Eisenstein,7.5
+724,Sweet Sixteen,I 2002,106,"['Crime', ' Drama']",Ken Loach,7.4
+725,Gold Diggers of 1933,1933,97,"['Comedy', ' Drama', ' Musical']",Mervyn LeRoy,7.7
+726,Entre les murs,2008,128,['Drama'],Laurent Cantet,7.5
+727,Le notti bianche,1957,102,"['Drama', ' Romance']",Luchino Visconti,7.8
+728,Swing Time,1936,103,"['Comedy', ' Musical', ' Romance']",George Stevens,7.5
+729,L'enfant sauvage,1970,83,"['Biography', ' Drama', ' History']",François Truffaut,7.5
+730,Saturday Night and Sunday Morning,1960,89,"['Drama', ' Romance']",Karel Reisz,7.5
+731,Magical Girl,2014,127,"['Drama', ' Thriller']",Carlos Vermut,7.2
+732,Beau Geste,1939,112,"['Action', ' Adventure', ' Drama']",William A. Wellman,7.5
+733,Week End,1967,105,"['Adventure', ' Comedy', ' Drama']",Jean-Luc Godard,6.9
+734,Burden of Dreams,1982,95,['Documentary'],Les Blank,7.9
+735,Körkarlen,1921,107,"['Drama', ' Fantasy', ' Horror']",Victor Sjöström,8.0
+736,Viaggio in Italia,1954,85,"['Drama', ' Romance']",Roberto Rossellini,7.3
+737,Wagon Master,1950,86,"['Drama', ' Western']",John Ford,7.1
+738,Madame de...,1953,105,"['Drama', ' Romance']",Max Ophüls,7.9
+739,You Only Live Once,1937,86,"['Crime', ' Drama', ' Film-Noir']",Fritz Lang,7.2
+740,The Letter,1940,95,"['Crime', ' Drama', ' Film-Noir']",William Wyler,7.5
+741,Lacombe Lucien,1974,138,"['Drama', ' War']",Louis Malle,7.6
+742,4 aventures de Reinette et Mirabelle,1987,99,"['Comedy', ' Drama', ' Romance']",Éric Rohmer,7.5
+743,Letter from an Unknown Woman,1948,87,"['Drama', ' Romance']",Max Ophüls,7.9
+744,Rekopis znaleziony w Saragossie,1965,182,"['Adventure', ' Comedy', ' Drama']",Wojciech Has,7.8
+745,Im Lauf der Zeit,1976,175,['Drama'],Wim Wenders,7.7
+746,Ju Dou,1990,95,"['Drama', ' Romance']",Yimou Zhang,7.6
+747,Fukushû suru wa ware ni ari,1979,140,"['Crime', ' Drama']",Shôhei Imamura,7.7
+748,Bab el hadid,1958,77,"['Crime', ' Drama']",Youssef Chahine,7.5
+749,I Am a Fugitive from a Chain Gang,1932,92,"['Crime', ' Drama', ' Film-Noir']",Mervyn LeRoy,8.2
+750,L'Atalante,1934,89,"['Comedy', ' Drama', ' Romance']",Jean Vigo,7.7
+751,Early Summer,1951,125,"['Drama', ' Romance']",Yasujirô Ozu,8.1
+752,Bacalaureat,2016,128,"['Crime', ' Drama']",Cristian Mungiu,7.3
+753,Tirez sur le pianiste,1960,81,"['Crime', ' Drama', ' Thriller']",François Truffaut,7.4
+754,Timbuktu,2014,96,"['Drama', ' War']",Abderrahmane Sissako,7.1
+755,Stage Door,1937,92,"['Comedy', ' Drama', ' Romance']",Gregory La Cava,7.7
+756,Kanal,1957,91,"['Drama', ' War']",Andrzej Wajda,7.9
+757,Sedotta e abbandonata,1964,118,"['Comedy', ' Drama']",Pietro Germi,7.9
+758,Monsieur Verdoux,1947,124,"['Comedy', ' Crime', ' Drama']",Charles Chaplin,7.8
+759,Wild River,1960,110,"['Drama', ' History', ' Romance']",Elia Kazan,7.5
+760,Harlan County U.S.A.,1976,103,['Documentary'],Barbara Kopple,8.2
+761,Dinner at Eight,1933,111,['Drama'],George Cukor,7.5
+762,Accattone,1961,117,['Drama'],Pier Paolo Pasolini,7.6
+763,The Lusty Men,1952,113,"['Action', ' Drama', ' Sport']",Nicholas Ray,7.3
+764,Heidi,2015,111,"['Drama', ' Family']",Alain Gsponer,7.4
+765,The Climb,2019,98,"['Comedy', ' Drama']",Michael Angelo Covino,6.7
+766,Ostre sledované vlaky,1966,92,"['Comedy', ' Drama', ' Romance']",Jirí Menzel,7.6
+767,Hearts and Minds,1974,112,"['Documentary', ' History', ' War']",Peter Davis,8.2
+768,Killer of Sheep,1978,80,['Drama'],Charles Burnett,7.2
+769,Ukigusa,1959,119,['Drama'],Yasujirô Ozu,7.9
+770,Seven Chances,1925,56,"['Comedy', ' Romance']",Buster Keaton,7.8
+771,Tower,2016,82,"['Documentary', ' Animation', ' Crime']",Keith Maitland,7.9
+772,Akibiyori,1960,128,"['Comedy', ' Drama']",Yasujirô Ozu,7.9
+773,In the Shadow of the Moon,2007,100,"['Documentary', ' History']",David Sington,8.0
+774,Show Boat,1936,113,"['Comedy', ' Drama', ' Musical']",James Whale,7.4
+775,"Steamboat Bill, Jr.",1928,70,"['Action', ' Comedy', ' Drama']",Charles Reisner,7.8
+776,A Touch of Zen,1971,200,"['Action', ' Adventure', ' Drama']",King Hu,7.5
+777,Ansiktet,1958,101,"['Comedy', ' Drama']",Ingmar Bergman,7.6
+778,The Crowd,1928,98,"['Drama', ' Romance']",King Vidor,8.1
+779,Le rayon vert,1986,99,"['Drama', ' Romance']",Éric Rohmer,7.6
+780,Salesman,1969,91,"['Documentary', ' Drama']",Albert Maysles,7.7
+781,Jeux interdits,1952,86,"['Comedy', ' Drama', ' War']",René Clément,8.0
+782,Our Hospitality,1923,65,"['Comedy', ' Romance', ' Thriller']",John G. Blystone,7.8
+783,Horse Feathers,1932,68,"['Comedy', ' Family', ' Musical']",Norman Z. McLeod,7.5
+784,Kolja,1996,105,"['Comedy', ' Drama', ' Music']",Jan Sverák,7.7
+785,Bei qing cheng shi,1989,157,"['Drama', ' History']",Hsiao-Hsien Hou,7.8
+786,Wadjda,2012,98,"['Comedy', ' Drama']",Haifaa Al-Mansour,7.5
+787,Dont Look Back,1967,96,"['Documentary', ' Music']",D.A. Pennebaker,7.9
+788,Mon oncle d'Amérique,1980,125,"['Comedy', ' Drama', ' Romance']",Alain Resnais,7.6
+789,Le boucher,1970,93,"['Drama', ' Thriller']",Claude Chabrol,7.3
+790,La historia oficial,1985,112,"['Drama', ' History']",Luis Puenzo,7.7
+791,Monsieur Hire,1989,81,"['Crime', ' Drama', ' Romance']",Patrice Leconte,7.5
+792,Sobache serdtse,1988 TV Movie,136,"['Comedy', ' Drama', ' Sci-Fi']",Vladimir Bortko,8.6
+793,Céline et Julie vont en bateau: Phantom Ladies Over Paris,1974,193,"['Comedy', ' Drama', ' Fantasy']",Jacques Rivette,7.2
+794,The Mortal Storm,1940,100,['Drama'],Frank Borzage,7.7
+795,Les vampires,1915,421,"['Action', ' Adventure', ' Crime']",Louis Feuillade,7.3
+796,Ballada o soldate,1959,88,"['Drama', ' Romance', ' War']",Grigoriy Chukhray,8.2
+797,Nybyggarna,1972,202,"['Drama', ' Western']",Jan Troell,8.0
+798,Paisà,1946,126,"['Drama', ' War']",Roberto Rossellini,7.6
+799,The Tarnished Angels,1957,91,"['Action', ' Adventure', ' Drama']",Douglas Sirk,7.1
+800,Sons of the Desert,1933,68,"['Comedy', ' Family']",William A. Seiter,7.5
+801,Le quai des brumes,1938,91,"['Crime', ' Drama', ' Romance']",Marcel Carné,7.7
+802,Les plages d'Agnès,2008,112,"['Documentary', ' Biography']",Agnès Varda,8.0
+803,Sommarnattens leende,1955,109,"['Comedy', ' Romance']",Ingmar Bergman,7.7
+804,Lola,1961,90,"['Drama', ' Romance']",Jacques Demy,7.5
+805,Hold Back the Dawn,1941,116,"['Drama', ' Romance']",Mitchell Leisen,7.3
+806,Der letzte Mann,1924,88,['Drama'],F.W. Murnau,8.0
+807,The Prisoner of Zenda,1937,101,"['Adventure', ' Drama', ' Romance']",John Cromwell,7.6
+808,Deus e o Diabo na Terra do Sol,1964,120,"['Adventure', ' Crime', ' Drama']",Glauber Rocha,7.2
+809,Monsieur Lazhar,2011,95,"['Comedy', ' Drama']",Philippe Falardeau,7.5
+810,Ponette,1996,97,['Drama'],Jacques Doillon,7.5
+811,The Shop on Main Street,1965,128,"['Drama', ' War']",Ján Kadár,8.2
+812,L'albero degli zoccoli,1978,186,"['Drama', ' History']",Ermanno Olmi,7.8
+813,We the Animals,2018,94,['Drama'],Jeremiah Zagar,6.9
+814,Lektionen in Finsternis,1992 TV Movie,54,"['Documentary', ' War']",Werner Herzog,8.0
+815,Raining Stones,1993,90,"['Comedy', ' Drama']",Ken Loach,7.3
+816,Le chagrin et la pitié,1969,251,"['Documentary', ' History', ' War']",Marcel Ophüls,8.2
+817,La chute de la maison Usher,1928,72,"['Drama', ' Fantasy', ' Horror']",Jean Epstein,7.3
+818,The Wind,1928,95,"['Drama', ' Romance', ' Thriller']",Victor Sjöström,8.0
+819,Make Way for Tomorrow,1937,91,"['Drama', ' Romance']",Leo McCarey,8.2
+820,Heimat - Eine Chronik in elf Teilen,1984,924,"['Drama', ' History', ' War']",Marita Breuer,8.6
+821,The House is Black,1963,20,"['Documentary', ' Short']",Forugh Farrokhzad,7.8
+822,The Search,1948,104,"['Drama', ' War']",Fred Zinnemann,7.8
+823,Whisky Galore!,1949,82,"['Comedy', ' Crime']",Alexander Mackendrick,7.1
+824,Sciuscià,1946,87,['Drama'],Vittorio De Sica,8.0
+825,Amazing Grace,2018,89,"['Documentary', ' Music']",Alan Elliott,7.5
+826,Ivan Groznyy,1944,103,"['Biography', ' Drama', ' History']",Sergei Eisenstein,7.7
+827,The Palm Beach Story,1942,88,"['Comedy', ' Romance']",Preston Sturges,7.5
+828,Ossessione,1943,140,"['Crime', ' Drama', ' Romance']",Luchino Visconti,7.6
+829,Pépé le Moko,1937,94,"['Crime', ' Drama', ' Romance']",Julien Duvivier,7.7
+830,Dragon Inn,1967,111,"['Action', ' Adventure']",King Hu,7.4
+831,Force of Evil,1948,79,"['Crime', ' Drama', ' Film-Noir']",Abraham Polonsky,7.2
+832,Il posto,1961,93,['Drama'],Ermanno Olmi,7.9
+833,Vredens dag,1943,97,"['Drama', ' History', ' Horror']",Carl Theodor Dreyer,8.1
+834,I Remember Mama,1948,134,"['Drama', ' Family']",George Stevens,7.9
+835,En passion,1969,101,['Drama'],Ingmar Bergman,7.6
+836,Simón del desierto,1965,45,"['Comedy', ' Drama', ' Fantasy']",Luis Buñuel,7.9
+837,The Navigator,1924,59,"['Action', ' Comedy', ' Romance']",Donald Crisp,7.6
+838,Charulata,1964,117,"['Drama', ' Romance']",Satyajit Ray,8.1
+839,Yang guang can lan de ri zi,1994,134,"['Drama', ' Romance']",Wen Jiang,8.1
+840,Saikaku ichidai onna,1952,148,['Drama'],Kenji Mizoguchi,8.1
+841,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,2000,288,"['Documentary', ' Biography']",Jonas Mekas,8.2
+842,"Out 1, noli me tangere",1971,776,"['Drama', ' Mystery']",Jacques Rivette,7.5
+843,Taxi,III 2015,82,"['Comedy', ' Drama']",Jafar Panahi,7.3
+844,L'eau froide,1994,95,['Drama'],Olivier Assayas,7.0
+845,7th Heaven,1927,110,"['Drama', ' Romance']",Frank Borzage,7.6
+846,The Cameraman,1928,76,"['Comedy', ' Drama', ' Family']",Edward Sedgwick,8.0
+847,'Northwest Passage' (Book I -- Rogers' Rangers),1940,126,"['Adventure', ' Drama', ' History']",King Vidor,7.0
+848,Une femme douce,1969,88,"['Drama', ' Romance']",Robert Bresson,7.4
+849,High Hopes,1988,108,"['Comedy', ' Drama']",Mike Leigh,7.4
+850,Procès de Jeanne d'Arc,1962,64,"['Biography', ' Drama', ' History']",Robert Bresson,7.4
+851,Menschen am Sonntag,1930,73,"['Comedy', ' Drama', ' Romance']",Robert Siodmak,7.3
+852,Jalsaghar,1958,100,"['Drama', ' Music']",Satyajit Ray,7.9
+853,Ensayo de un crimen,1955,89,"['Comedy', ' Crime', ' Drama']",Luis Buñuel,7.6
+854,5 Fingers,1952,108,"['Crime', ' Drama', ' Mystery']",Joseph L. Mankiewicz,7.6
+855,Miracolo a Milano,1951,97,"['Comedy', ' Drama', ' Fantasy']",Vittorio De Sica,7.6
+856,Brother's Keeper,1992,104,"['Documentary', ' Crime', ' Mystery']",Joe Berlinger,7.5
+857,Shirkers,2018,97,['Documentary'],Sandi Tan,7.3
+858,O Pagador de Promessas,1962,98,['Drama'],Anselmo Duarte,8.3
+859,Deep Water,2006,93,"['Documentary', ' History', ' Sport']",Louise Osmond,7.8
+860,Lu bian ye can,2015,113,"['Drama', ' Mystery']",Bi Gan,7.3
+861,The Bank Dick,1940,72,['Comedy'],Edward F. Cline,7.1
+862,La ronde,1950,93,"['Drama', ' Romance']",Max Ophüls,7.5
+863,The Chant of Jimmie Blacksmith,1978,122,"['Biography', ' Crime', ' Drama']",Fred Schepisi,7.3
+864,The Big Parade,1925,151,"['Drama', ' Romance', ' War']",King Vidor,7.9
+865,The Young One,1960,96,['Drama'],Luis Buñuel,7.4
+866,Le silence de la mer,1949,87,"['Drama', ' Romance', ' War']",Jean-Pierre Melville,7.6
+867,Touchez pas au grisbi,1954,96,"['Crime', ' Drama']",Jacques Becker,7.7
+868,Oci ciornie,1987,118,"['Comedy', ' Romance', ' Drama']",Nikita Mikhalkov,7.3
+869,The Story of the Last Chrysanthemums,1939,143,"['Drama', ' Romance']",Kenji Mizoguchi,7.8
+870,Foxtrot,II 2017,113,['Drama'],Samuel Maoz,7.2
+871,Quai des Orfèvres,1947,106,"['Crime', ' Drama']",Henri-Georges Clouzot,7.7
+872,Tagebuch einer Verlorenen,1929,104,['Drama'],Georg Wilhelm Pabst,7.8
+873,La chienne,1931,91,"['Crime', ' Drama']",Jean Renoir,7.5
+874,El verdugo,1963,87,"['Drama', ' Comedy']",Luis García Berlanga,7.9
+875,Ruggles of Red Gap,1935,90,"['Comedy', ' Mystery', ' Romance']",Leo McCarey,7.6
+876,The Scarlet Empress,1934,104,"['Drama', ' History', ' Romance']",Josef von Sternberg,7.5
+877,I pugni in tasca,1965,110,['Drama'],Marco Bellocchio,7.6
+878,Night Will Fall,2014,75,"['Documentary', ' History', ' War']",André Singer,8.0
+879,Die Abenteuer des Prinzen Achmed,1926,80,"['Animation', ' Adventure', ' Family']",Lotte Reiniger,7.8
+880,One More Time with Feeling,2016,113,"['Documentary', ' Music']",Andrew Dominik,8.2
+881,Moonrise,1948,90,"['Crime', ' Drama', ' Film-Noir']",Frank Borzage,7.0
+882,Ship of Theseus,2012,140,['Drama'],Anand Gandhi,8.0
+883,Stachka,1925,82,['Drama'],Sergei Eisenstein,7.6
+884,Pelísky,1999,115,"['Comedy', ' Drama']",Jan Hrebejk,8.1
+885,Hail the Conquering Hero,1944,101,"['Comedy', ' War']",Preston Sturges,7.6
+886,Nobi,1959,108,"['Drama', ' War']",Kon Ichikawa,8.0
+887,The Cloud-Capped Star,1960,126,['Drama'],Ritwik Ghatak,7.8
+888,Monterey Pop,1968,78,"['Documentary', ' History', ' Music']",D.A. Pennebaker,8.0
+889,Jour de fête,1949,70,['Comedy'],Jacques Tati,7.2
+890,Otona no miru ehon - Umarete wa mita keredo,1932,90,"['Comedy', ' Drama']",Yasujirô Ozu,7.9
+891,Insiang,1976,95,['Drama'],Lino Brocka,7.5
+892,Gui tu lie che,2009,85,"['Documentary', ' Drama']",Lixin Fan,7.6
+893,Pyaasa,1957,146,"['Drama', ' Musical', ' Romance']",Guru Dutt,8.3
+894,Jigokumon,1953,89,"['Drama', ' History']",Teinosuke Kinugasa,7.1
+895,Le deuxième souffle,1966,150,"['Crime', ' Drama']",Jean-Pierre Melville,7.9
+896,Il generale Della Rovere,1959,132,"['Drama', ' War']",Roberto Rossellini,7.7
+897,La terra trema,1948,160,['Drama'],Luchino Visconti,7.8
+898,Ukigumo,1955,123,"['Drama', ' Romance']",Mikio Naruse,7.6
+899,Al-mummia,1969,102,['Drama'],Chadi Abdel Salam,7.7
+900,Moolaadé,2003,124,['Drama'],Ousmane Sembene,7.6
+901,Caught,1949,88,"['Crime', ' Drama', ' Film-Noir']",Max Ophüls,7.0
+902,The Docks of New York,1928,76,"['Crime', ' Drama', ' Film-Noir']",Josef von Sternberg,7.5
+903,Edvard Munch,1974 TV Movie,210,"['Biography', ' Drama', ' History']",Peter Watkins,8.2
+904,Onna ga kaidan wo agaru toki,1960,111,['Drama'],Mikio Naruse,8.1
+905,Él,1953,92,"['Drama', ' Romance']",Luis Buñuel,7.9
+906,Love Me Tonight,1932,104,"['Comedy', ' Musical', ' Romance']",Rouben Mamoulian,7.5
+907,Le carrosse d'or,1952,103,"['Comedy', ' Drama', ' History']",Jean Renoir,7.0
+908,Le jour se lève,1939,93,"['Crime', ' Drama', ' Romance']",Marcel Carné,7.7
+909,Ashug-Karibi,1988,73,['Drama'],Sergei Parajanov,7.2
+910,Aranyer Din Ratri,1970,115,['Drama'],Satyajit Ray,8.1
+911,Hadaka no shima,1960,96,['Drama'],Kaneto Shindô,8.0
+912,Chemi bednieri ojakhi,2017,120,['Drama'],Nana Ekvtimishvili,7.4
+913,The Last Command,1928,88,"['Drama', ' History', ' Romance']",Josef von Sternberg,8.0
+914,Obecná skola,1991,100,"['Adventure', ' Comedy', ' Drama']",Jan Sverák,7.8
+915,Gycklarnas afton,1953,93,['Drama'],Ingmar Bergman,7.4
+916,Mafioso,1962,105,"['Comedy', ' Crime', ' Drama']",Alberto Lattuada,7.6
+917,It's a Gift,1934,68,['Comedy'],Norman Z. McLeod,7.1
+918,Agantuk,1991,120,['Drama'],Satyajit Ray,8.0
+919,Tuntematon sotilas,1955,177,"['Drama', ' War']",Edvin Laine,8.0
+920,Salvatore Giuliano,1962,123,"['Crime', ' Drama', ' History']",Francesco Rosi,7.3
+921,Casque d'or,1952,99,"['Crime', ' Drama', ' Romance']",Jacques Becker,7.6
+922,L'amour fou,1969,252,"['Drama', ' Romance']",Jacques Rivette,7.4
+923,Le amiche,1955,104,"['Drama', ' Romance']",Michelangelo Antonioni,7.1
+924,P'tit Quinquin,2014,206,"['Comedy', ' Crime', ' Mystery']",Alane Delhaye,7.3
+925,Longford,2006 TV Movie,93,"['Biography', ' Crime', ' Drama']",Tom Hooper,7.5
+926,I compagni,1963,130,"['Drama', ' History']",Mario Monicelli,8.0
+927,Chikamatsu monogatari,1954,102,"['Drama', ' Romance', ' Thriller']",Kenji Mizoguchi,8.0
+928,Emmet Otter's Jug-Band Christmas,1977 TV Movie,48,"['Comedy', ' Drama', ' Family']",Jim Henson,8.2
+929,Partie de campagne,1946,40,"['Short', ' Comedy', ' Drama']",Jean Renoir,7.5
+930,Cameraperson,2016,102,"['Documentary', ' Biography', ' History']",Kirsten Johnson,7.4
+931,"Yuki yukite, shingun",1987,122,['Documentary'],Kazuo Hara,8.2
+932,Gett,2014,115,['Drama'],Ronit Elkabetz,7.7
+933,Xiao cheng zhi chun,1948,98,"['Drama', ' Romance']",Mu Fei,7.3
+934,Devi,1960,93,['Drama'],Satyajit Ray,7.7
+935,La guerre est finie,1966,121,"['Drama', ' War']",Alain Resnais,7.3
+936,Léolo,1992,107,"['Comedy', ' Drama', ' Fantasy']",Jean-Claude Lauzon,7.4
+937,"Francesco, giullare di Dio",1950,85,"['Biography', ' Comedy', ' Drama']",Roberto Rossellini,7.3
+938,Never Give a Sucker an Even Break,1941,71,"['Comedy', ' Musical']",Edward F. Cline,7.0
+939,À nous la liberté,1931,83,"['Comedy', ' Musical']",René Clair,7.4
+940,Crónica de un niño solo,1965,79,['Drama'],Leonardo Favio,7.5
+941,Manila in the Claws of Light,1975,125,"['Drama', ' Mystery']",Lino Brocka,7.8
+942,La femme du boulanger,1938,133,"['Comedy', ' Drama']",Marcel Pagnol,7.5
+943,Little Fugitive,1953,75,"['Drama', ' Family']",Ray Ashley,7.5
+944,Project Nim,2011,93,['Documentary'],James Marsh,7.4
+945,Sita Sings the Blues,2008,82,"['Animation', ' Comedy', ' Fantasy']",Nina Paley,7.6
+946,Strategia del ragno,1970,100,"['Drama', ' Mystery']",Bernardo Bertolucci,6.9
+947,Mahanagar,1963,136,['Drama'],Satyajit Ray,8.3
+948,Chichi ariki,1942,94,['Drama'],Yasujirô Ozu,7.6
+949,Shen nu,1934,85,['Drama'],Yonggang Wu,7.7
+950,The Freshman,1925,77,"['Comedy', ' Family', ' Romance']",Fred C. Newmeyer,7.5
+951,Heart of a Dog,2015,75,['Documentary'],Laurie Anderson,7.0
+952,The Work,2017,89,['Documentary'],Jairus McLeary,7.8
+953,L'image manquante,2013,92,['Documentary'],Rithy Panh,7.3
+954,Ilo Ilo,2013,99,['Drama'],Anthony Chen,7.2
+955,Park Row,1952,83,"['Drama', ' Thriller']",Samuel Fuller,7.2
+956,Az én XX. századom,1989,102,"['Comedy', ' Drama', ' Sci-Fi']",Ildikó Enyedi,7.1
+957,Gion bayashi,1953,85,['Drama'],Kenji Mizoguchi,7.6
+958,56 Up,2012,144,['Documentary'],Michael Apted,7.9
+959,The Great White Silence,1922,80,['Documentary'],Herbert G. Ponting,7.9
+960,A Bread Factory: Part One,2018,122,"['Comedy', ' Drama']",Patrick Wang,6.8
+961,Nagaya shinshiroku,1947,72,['Drama'],Yasujirô Ozu,7.7
+962,Westfront 1918: Vier von der Infanterie,1930,75,"['Drama', ' Romance', ' War']",Georg Wilhelm Pabst,7.4
+963,Le vieil homme et l'enfant,1967,90,"['Comedy', ' Drama']",Claude Berri,7.6
+964,David Holzman's Diary,1967,74,"['Comedy', ' Drama']",Jim McBride,6.5
+965,Boudu sauvé des eaux,1932,85,['Comedy'],Jean Renoir,7.2
+966,Marius,1931,130,"['Comedy', ' Drama', ' Romance']",Alexander Korda,7.8
+967,Le roman d'un tricheur,1936,81,['Comedy'],Sacha Guitry,7.6
+968,¡Que viva México! Da zdravstvuyet Meksika!,1979,90,"['Documentary', ' Drama', ' Western']",Sergei Eisenstein,7.4
+969,O Drakos,1956,103,"['Crime', ' Drama']",Nikos Koundouros,7.9
+970,Dead Souls,2018,495,"['Documentary', ' History']",Wang Bing,8.0
+971,La kermesse héroïque,1935,110,"['Comedy', ' History', ' Romance']",Jacques Feyder,7.4
+972,Teen Kanya,1961,173,"['Comedy', ' Drama', ' Fantasy']",Satyajit Ray,7.9
+973,Le million,1931,91,"['Comedy', ' Musical']",René Clair,7.3
+974,Histoire(s) du cinéma,1989–1999,267,['Documentary'],Jean-Luc Godard,7.2
+975,I fidanzati,1963,77,['Drama'],Ermanno Olmi,7.6
+976,César,1936,168,['Drama'],Marcel Pagnol,7.6
+977,Louie Bluie,1985,75,"['Documentary', ' Music']",Terry Zwigoff,7.6
+978,Avanti Popolo,1986,84,"['Drama', ' War']",Rafi Bukai,7.6
+979,The Regeneration,1915,72,"['Biography', ' Crime', ' Drama']",Raoul Walsh,6.8
+980,28 Up,1984 TV Movie,136,"['Documentary', ' Biography']",Michael Apted,8.2
+981,Naniwa erejî,1936,71,"['Comedy', ' Drama']",Kenji Mizoguchi,7.2
+982,Thunder Soul,2010,83,"['Documentary', ' Music']",Mark Landsman,7.6
+983,Jakten,1959,94,"['Drama', ' Romance', ' Thriller']",Erik Løchen,7.3
+984,San zimei,2012,153,['Documentary'],Wang Bing,7.3
+985,El chacal de Nahueltoro,1969,95,"['Biography', ' Crime', ' Drama']",Miguel Littin,7.6
+986,Le grand amour,1969,87,"['Comedy', ' Romance']",Pierre Étaix,7.5
+987,A Bread Factory: Part Two,2018,115,"['Comedy', ' Drama']",Patrick Wang,6.7
+988,Seto Surya,2016,89,"['Adventure', ' Drama']",Deepak Rauniyar,7.1
+989,Utamaro o meguru gonin no onna,1946,106,['Drama'],Kenji Mizoguchi,7.0
+990,La Telenovela Errante,2017,80,"['Comedy', ' Drama', ' Fantasy']",Raúl Ruiz,6.5
+991,Les perles de la couronne,1937,118,"['Comedy', ' History']",Christian-Jaque,6.9
+992,Gavagai,2016,90,['Drama'],Rob Tregenza,6.5
+993,Le cousin Jules,1972,91,['Documentary'],Dominique Benicheti,7.5
+994,Back in the U.S.,2002 TV Special,180,"['Documentary', ' Music']",Mark Haefeli,7.9
+995,The Other Side of the Mirror: Bob Dylan at the Newport Folk Festival,2007 TV Movie,83,"['Documentary', ' Music']",Murray Lerner,8.1
+996,Rogers Park,2017,87,"['Comedy', ' Drama']",Kyle Henry,7.0
+997,The God of Day Had Gone Down Upon Him,2000,50,,Stan Brakhage,7.7
+998, Century of Cinema,1995–1998,225,"['Documentary', ' Biography', ' History']",Martin Scorsese,8.5
+999, American Masters,1985– ,208,"['Documentary', ' Biography', ' Music']",Martin Scorsese,8.4
