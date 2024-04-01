@@ -1,4 +1,4 @@
-# IMDB Movie Recommendations (Not Finished - UI)
+# IMDB Movie Recommendations (Not Finished - UI in master branch)
 
 Welcome to the IMDB Movie Recommendations project! This program allows users to input their movie preferences and receive personalized recommendations.
 
